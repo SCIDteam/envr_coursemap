@@ -1,0 +1,61 @@
+.tip-popup {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #fef3c7;
+  color: #92400e;
+  padding: 15px 20px 15px 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  font-size: 15px;
+  max-width: 50%;
+  z-index: 1000;
+  animation: slideIn 1s ease-out, bounce 1.5s ease-in-out 1s infinite alternate;
+  position: fixed;
+}
+
+.tip-close {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0%);
+    opacity: 1;
+  }
+}
+
+@keyframes bounce {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-5px);
+  }
+}
+
+@keyframes slideOut {
+  from {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .tip-popup {
+    display: none;
+  }
+}

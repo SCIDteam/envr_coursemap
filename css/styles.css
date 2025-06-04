@@ -1,0 +1,169 @@
+/* Reset and global styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9fafb;
+  color: #333;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+/* Grid container */
+.grid-container {
+  display: grid;
+  grid-template-columns: minmax(200px, 1fr) minmax(300px, 4fr);
+  grid-template-rows: auto 6fr;
+  min-height: 100vh;
+}
+
+/* Header styles */
+.header {
+  grid-column: 1 / -1;
+  background-color: #0369a1;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+/* Sidebar styles */
+.sidebar {
+  background-color: #e0f2fe;
+  padding: 1rem;
+  border-right: 1px solid #bae6fd;
+  border-bottom: 2px solid #bae6fd;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  font-family: 'Segoe UI', sans-serif;
+  border-radius: 0 12px 12px 0;
+}
+
+/* Content styles */
+.content {
+  background-color: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  border-radius: 12px 0 0 12px;
+}
+
+/* Graph container */
+#graph-container {
+  width: 100%;
+  height: 100%;
+  border: 2px solid #d1d5db;
+  box-sizing: border-box;
+  position: relative;
+  border-radius: 12px;
+  background-color: #f1f5f9;
+}
+
+#graph-contaniner > text {
+  font-weight: 400;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 14px;
+}
+
+/* SVG styling */
+svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* For very small screens */
+@media (max-width: 600px) {
+  body::before {
+    content: "Please switch to a larger screen for better viewing experience.";
+    display: block;
+    background-color: #f59e0b;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+  }
+
+  .grid-container {
+    margin-top: 40px;
+  }
+}
+
+/* Switch container */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 50px;
+  height: 24px;
+}
+
+/* Hide the default checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* Slider (the toggle button) */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #cbd5e1;
+  transition: 0.4s;
+  border-radius: 24px;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Circle inside the slider */
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 18px;
+  width: 18px;
+  left: 3px;
+  bottom: 3px;
+  background-color: white;
+  transition: 0.4s;
+  border-radius: 50%;
+}
+
+/* Checked (toggle on) state */
+input:checked + .slider {
+  background-color: #4caf50;
+}
+
+/* Move the circle to the right when checked */
+input:checked + .slider:before {
+  transform: translateX(26px);
+}
+
+/* Rounded slider */
+.slider.round {
+  border-radius: 24px;
+}
+
+/* Text beside the switch */
+.sidebar span {
+  font-size: 16px;
+  color: #0369a1;
+  font-weight: 500;
+  line-height: 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+/* Hover effect for text */
+.sidebar span:hover {
+  color: #065f46;
+}

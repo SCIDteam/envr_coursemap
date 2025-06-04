@@ -1,0 +1,47 @@
+.node {
+  stroke: #1e293b; /* Dark slate tone instead of harsh black */
+  font-size: 1.4em;
+  font-family: 'Segoe UI', sans-serif;
+  fill: #0369a1; /* Matches button active state */
+}
+
+/* Edge styling */
+.edgePath path {
+  stroke: #94a3b8; /* Soft gray-blue tone */
+  fill: none;
+  stroke-width: 1.5px;
+}
+
+/* Tooltip Styling */
+.tooltip {
+  position: absolute;
+  background-color: rgba(3, 105, 161, 0.9); /* Deep blue tone with transparency */
+  color: white;
+  border-radius: 10px;
+  padding: 10px 14px;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 16px;
+  max-width: 30vw;
+  pointer-events: none;
+  opacity: 0;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+  transition: opacity 0.2s ease-in-out;
+}
+
+.tooltip .title {
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+
+.tooltip .body {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #f1f5f9;
+}
+
+.tooltip .theme-footer {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #dbeafe; /* lighter soft blue */
+}

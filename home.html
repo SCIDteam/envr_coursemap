@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- d3.js library -->
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <!-- dagreD3.js library -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/dagre-d3/0.6.4/dagre-d3.min.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Environmental Sciences</title>
+
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/d3_styles.css">
+  <link rel="stylesheet" href="css/legend.css">
+
+</head>
+<body>
+    <div class="grid-container">
+        <header class="header">Environmental Sciences Program Mapping</header>
+        <aside class="sidebar">
+            <span style="margin-bottom: 10px; display: block;"><strong>Display Extended Chain of Dependencies</strong></span>
+            <label class="switch">
+                <input type="checkbox" id="prerequisite-toggle">
+                <span class="slider round"></span>
+            </label>
+
+            <span style="margin-top: 20px; margin-bottom: 10px; display: block;"><strong>Themes</strong></span>
+            <div id="themes-container"></div>
+
+        </aside>
+        <main class="content">
+            <div id="graph-container">
+                <svg></svg>
+            </div>
+        </main>          
+    </div>
+
+    <div class="tip-popup" id="hover-tip">
+    <span class="tip-close" onclick="document.getElementById('hover-tip').style.display='none'">&times;</span>
+    💡 Hover over any course node to see its description, prerequisites, and corequisites!
+    </div>
+
+    <div class="tip-popup" id="zoom-tip" style="bottom: 80px;">
+    <span class="tip-close" onclick="document.getElementById('zoom-tip').style.display='none'">&times;</span>
+    🔍 Zoom in and out to explore course connections more clearly!
+    </div>
+
+    <script>
+    function slideOutAndHide(element) {
+        if (element) {
+        element.style.animation = 'slideOut 1s ease-out forwards';
+        setTimeout(() => {
+            element.style.display = 'none';
+        }, 1000); // match animation duration
+        }
+    }
+
+    setTimeout(() => {
+        slideOutAndHide(document.getElementById('hover-tip'));
+        slideOutAndHide(document.getElementById('zoom-tip'));
+    }, 10000); // start slide out after 10 seconds
+    </script>
+    <script src="scripts/home_script.js"></script>
+</body>
+</html>

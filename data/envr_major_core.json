@@ -1,0 +1,425 @@
+[
+    {
+        "course_code": "BIOL 121",
+        "course_title": "Genetics, Evolution and Ecology",
+        "description": "Principles of storage and transmission of genetic variation; origin and evolution of species and their ecological interactions. Credit will be granted for only one of BIOL 121 or BIOL 344. [3-0-0] Prerequisite: One of BIOL 11, BIOL 12, BIOL 111.",
+        "prerequisites": [
+            "BIOL 111"
+        ],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "MATH 104",
+        "course_title": "",
+        "description": "",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "MATH 105",
+        "course_title": "",
+        "description": "",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "BIOL 111",
+        "course_title": "Introduction to Modern Biology",
+        "description": "Concepts fundamental to biological issues, such as the genetic basis of biological variation, evolution, infectious diseases, causes of cancer, population growth, and human effects on ecosystems.  Not open to students who have credit for Biology 12 (including AP, IB). [3-0-0]",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": false
+    },
+    {
+        "course_code": "ENVR 205",
+        "course_title": "",
+        "description": "",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "CHEM 111",
+        "course_title": "Structure, Bonding, and Equilibrium in Chemistry",
+        "description": "Fundamentals of bonding theories, structural chemistry and equilibrium with applications relevant to modern society. [3-3-1] Prerequisite: Not open to students with credit for CHEM 12. A satisfactory score on the UBC Chemistry Basic Skills Test.",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "PHYS 117",
+        "course_title": "Dynamics and Waves",
+        "description": "Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves. [3-0-2] Prerequisite: One of PHYS 12, PHYS 100. Corequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.",
+        "prerequisites": [
+            "PHYS 100"
+        ],
+        "corequisites": [
+            "MATH 100",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180"
+        ],
+        "themes": [],
+        "envr_course": false
+    },
+    {
+        "course_code": "PHYS 157",
+        "course_title": "Introductory Physics for Engineers I",
+        "description": "Heat, thermodynamics, oscillations, waves, and sound. [3-0-1] Prerequisite: One of PHYS 12, PHYS 100. Corequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.",
+        "prerequisites": [
+            "PHYS 100"
+        ],
+        "corequisites": [
+            "MATH 100",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180"
+        ],
+        "themes": [],
+        "envr_course": false
+    },
+    {
+        "course_code": "ENVR 450",
+        "course_title": "",
+        "description": "",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "MATH 101",
+        "course_title": "Integral Calculus with Applications",
+        "description": "The definite integral, integration techniques, applications, modelling, infinite series. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists [3-0-0] Prerequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.",
+        "prerequisites": [
+            "MATH 100",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180"
+        ],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "ENVR 400",
+        "course_title": "Community Project in Environmental Science",
+        "description": "Instructor-guided collaboration between student teams and community partners on community-based environmental science projects. Teams articulate project questions and goals, devise methods, conduct research and communicate results. Credit will be given for only one of ENVR 400 or ENVR 449. [3-0-0; 3-0-0] Prerequisite: ENVR 300.",
+        "prerequisites": [
+            "ENVR 300"
+        ],
+        "corequisites": [],
+        "themes": [
+            "Climate"
+        ],
+        "envr_course": true
+    },
+    {
+        "course_code": "ENVR 350",
+        "course_title": "",
+        "description": "",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "DSCI 100",
+        "course_title": "Introduction to Data Science",
+        "description": "Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized. [3-0-1] Prerequisite: MATH 12",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "CHEM 121",
+        "course_title": "Structure and Bonding in Chemistry",
+        "description": "Fundamentals of bonding theories and structural chemistry, with applications relevant to modern society. [3-3-0] Prerequisite: One of CHEM 12, CHEM 100. Equivalency: CHEM141",
+        "prerequisites": [
+            "CHEM 100"
+        ],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "ENVR 300",
+        "course_title": "Introduction to Research in Environmental Science",
+        "description": "Environmental research.  Students investigate research methodologies and reporting in a range of scientific disciplines and fields. [3-0-0] Prerequisite: Open to all students with third-year, or higher, standing in the Faculty of Science.",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [
+            "Climate"
+        ],
+        "envr_course": true
+    },
+    {
+        "course_code": "ENVR 305",
+        "course_title": "",
+        "description": "",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "PHYS 100",
+        "course_title": "Introductory Physics",
+        "description": "Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100. [3-0-2] Prerequisite: Not open to students with credit for PHYS 12. Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": false
+    },
+    {
+        "course_code": "SCIE 113",
+        "course_title": "First-Year Seminar in Science",
+        "description": "Small-group experience where students study science in society, scientific process, and how to communicate scientific concepts.  Enrolment limited to students in the B. Sc. program in Science. This course is not eligible for Credit/D/Fail grading. [3-0-0]",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "MATH 102",
+        "course_title": "",
+        "description": "",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "MATH 110",
+        "course_title": "Differential Calculus",
+        "description": "Topics as for MATH 100, but including relevant topics from algebra, geometry, functions, trigonometry, logarithms, and exponentials. [3-0-1.5; 3-0-1.5] Prerequisite: A grade of 65% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": false
+    },
+    {
+        "course_code": "ENVR 100",
+        "course_title": "",
+        "description": "",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "ENVR 240",
+        "course_title": "",
+        "description": "",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "CHEM 154",
+        "course_title": "Chemistry for Engineering",
+        "description": "Chemical bonding, properties of matter. Chemical thermodynamics with applications to phase equilibria, aqueous equilibria and electrochemistry. Processes at surfaces. [3-3*-0] Prerequisite: CHEM 12.",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": false
+    },
+    {
+        "course_code": "MATH 120",
+        "course_title": "Honours Differential Calculus",
+        "description": "Limits, derivatives, Mean Value Theorem and applications, elementary functions, optimization, Taylor series, approximation. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists [4-0-0] Prerequisite: High-school calculus and one of (a) a score of 95% or higher in BC Principles of Mathematics 12 or Pre-calculus 12; or (b) permission from the Mathematics Department Head.",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "STAT 201",
+        "course_title": "Statistical Inference for Data Science",
+        "description": "Classical and simulation-based techniques for estimation and hypothesis testing, including inference for means and proportions. Emphasis on case studies and real data sets, as well as reproducible and transparent workflows when writing computer scripts for analysis and reports. [3-0-1] Prerequisite: DSCI 100.",
+        "prerequisites": [
+            "DSCI 100"
+        ],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "EOSC 345",
+        "course_title": "",
+        "description": "",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "MATH 184",
+        "course_title": "",
+        "description": "",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "PHYS 106",
+        "course_title": "Enriched Physics 1 (lecture)",
+        "description": "Classical mechanics including conservation laws, angular momentum of rigid bodies and simple harmonic motion, wave phenomena, with an introduction to special relativity, quantum mechanics, nuclear physics, statistical mechanics and solid state physics. [3-0-1] Prerequisite: Either (a) a score more than 85% in all of PHYS 12, MATH 12 or (b) a score more than 85% in all of PHYS 12, PREC 12 or (c) a score more than 85% in all of PHYS 12, CALC 12 or (d) a score more than 85% in PHYS 100. PHYS 12 = Physics 12; MATH 12 = Principles of Mathematics 12; PREC 12 = Pre-Calculus 12; CALC 12 = Calculus 12. Corequisite: One of MATH 100, MATH 102, MATH 104, MATH 120, MATH 180, MATH 184.",
+        "prerequisites": [
+            "PHYS 100"
+        ],
+        "corequisites": [
+            "MATH 100",
+            "MATH 120",
+            "MATH 180"
+        ],
+        "themes": [],
+        "envr_course": false
+    },
+    {
+        "course_code": "ENVR 200",
+        "course_title": "Introduction to Environmental Science",
+        "description": "Seminars and field trips introducing the major global, regional, and local environmental issues facing human societies. [3-0-0] Prerequisite: Open to all students with second-year, or higher, standing.",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [
+            "Climate"
+        ],
+        "envr_course": true
+    },
+    {
+        "course_code": "PHYS 131",
+        "course_title": "Energy and Waves (Lecture)",
+        "description": "Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction. [3-0-1] Prerequisite: One of PHYS 12, PHYS 100. Corequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.",
+        "prerequisites": [
+            "PHYS 100"
+        ],
+        "corequisites": [
+            "MATH 100",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180"
+        ],
+        "themes": [],
+        "envr_course": false
+    },
+    {
+        "course_code": "CHEM 100",
+        "course_title": "Foundations of Chemistry",
+        "description": "Atomic and molecular properties, chemical reactions, bonding, nomenclature, kinetics, equilibrium processes, acids and bases, oxidation and reduction.  Intended for students who do not receive a satisfactory score on the UBC Chemistry Basic Skills Test, and need to establish a foundation of chemistry skills before proceeding to other first year chemistry courses. This course is not eligible for Credit/D/Fail grading. [3-0-1] Prerequisite: Not open to students with credit for Chemistry 12.  Permission of the department head.",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": false
+    },
+    {
+        "course_code": "STAT 200",
+        "course_title": "Elementary Statistics for Applications",
+        "description": "Classical, nonparametric, and robust inferences about means, variances, and analysis of variance, using computers. Emphasis on problem formulation, assumptions, and interpretation. See the Faculty of Science Credit Exclusion Lists: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists [3-1-0] Prerequisite: One of any course on the MATH 100 credit exclusion list [https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists], MATH 190, SCIE 001.",
+        "prerequisites": [
+            "MATH 100"
+        ],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "BIOL 300",
+        "course_title": "Fundamentals of Biostatistics",
+        "description": "Statistical procedures for biological research; estimation, hypothesis testing, goodness of fit, analysis of variance and regression; use of computers for statistical analysis. Please consult the Faculty of Science Credit Exclusion Lists: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists [3-2-0] Prerequisite: One of BIOL 121, SCIE 001. Corequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.",
+        "prerequisites": [
+            "BIOL 121"
+        ],
+        "corequisites": [
+            "MATH 101",
+            "MATH 121"
+        ],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "MATH 180",
+        "course_title": "Differential Calculus with Applications",
+        "description": "Topics as for Math 100; intended for students with no previous knowledge of Calculus. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists. Not for credit for students with AP Calculus AB, AP Calculus BC, or a passing score on the UBC-SFU-UVIC-UNBC Calculus Challenge Examination. [3-0-1.5] Prerequisite: A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "MATH 100",
+        "course_title": "Differential Calculus with Applications",
+        "description": "Derivatives of elementary functions. Applications and modelling: graphing, optimization. Consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists [3-0-0] Prerequisite: A score of 80% or higher in BC Pre-calculus 12. High school calculus is strongly recommended.",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "MATH 121",
+        "course_title": "Honours Integral Calculus",
+        "description": "Definite integrals and the Fundamental Theorem of Calculus, techniques and applications of integration, infinite series. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists [4-0-0] Prerequisite: Either(a) MATH 120 or (b) one of MATH 100, MATH 102, MATH 104, MATH 180, MATH 184. Prerequisite grade requirement: 80% in MATH184,MATH180,MATH104,MATH102,MATH100. 68% in MATH120. or (c) a score of 5 in AP Calculus AB.",
+        "prerequisites": [
+            "MATH 120",
+            "MATH 100",
+            "MATH 180"
+        ],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "EOSC 340",
+        "course_title": "Climate Change: Causes and Solutions",
+        "description": "Mechanisms and processes of past and future global climate change. Climate models and projected impacts. Climate solutions including carbon sequestration, adaptation and geoengineering. [3-0-0] Prerequisite: Either (a) SCIE 001 or (b) one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141, CHEM 154 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157.",
+        "prerequisites": [
+            "CHEM 111",
+            "CHEM 121",
+            "CHEM 141",
+            "CHEM 154",
+            "MATH 101",
+            "MATH 121",
+            "PHYS 106",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 157"
+        ],
+        "corequisites": [],
+        "themes": [
+            "Climate"
+        ],
+        "envr_course": true
+    },
+    {
+        "course_code": "MATH 103",
+        "course_title": "",
+        "description": "",
+        "prerequisites": [],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    },
+    {
+        "course_code": "CHEM 141",
+        "course_title": "Chemical Bonding, Molecular Structure and Properties for Lab Sciences",
+        "description": "Bonding theories, their predictions, experimental tests, and consequences regarding chemical structure and observable properties. Applications relevant to modern society are emphasized. For students interested in lab-focused sciences such as Chemistry, Physics, Biochemistry, Microbiology and related disciplines. Restricted to students in the Faculty of Science. [3-3-0] Prerequisite: One of CHEM 12, CHEM 100. Equivalency: CHEM121",
+        "prerequisites": [
+            "CHEM 100"
+        ],
+        "corequisites": [],
+        "themes": [],
+        "envr_course": true
+    }
+]

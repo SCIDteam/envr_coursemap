@@ -1,0 +1,652 @@
+[
+    {
+        "course_code": "APBI_V 200",
+        "course_title": "Introduction to Soil Science",
+        "course_desc": "Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised. [3-2]"
+    },
+    {
+        "course_code": "APBI_V 342",
+        "course_title": "Soil Biology",
+        "course_desc": "The diversity of soil organisms (bacteria, protozoa, fungi, animals, plants) in natural and managed ecosystems; roles in primary production, nutrient cycling, decomposition and reclamation; interactions between soil organisms; responses to environmental change. [2-3-0] Prerequisite: [BIOL121] Equivalency: FRST310"
+    },
+    {
+        "course_code": "APBI_V 401",
+        "course_title": "Soil Processes",
+        "course_desc": "Understanding environmental factors influencing soil-forming processes and their ecological implications. Credit will be granted for only one of SOIL 501 or APBI 401. Prerequisite: APBI 200."
+    },
+    {
+        "course_code": "APBI_V 423",
+        "course_title": "Ecological Restoration",
+        "course_desc": "Perspectives and practices of ecological restoration in diverse ecosystems worldwide. Prerequisite: APBI 200 and one of FRST 201, APBI 260, BIOL 230. Equivalency: UFOR 403"
+    },
+    {
+        "course_code": "APSC_V 366",
+        "course_title": "The Art of the Possible: An Introduction to Engineering for Non-Engineers",
+        "course_desc": "An introduction to engineering for the non-specialist. A case-studies approach includes examples from sustainability-related technology, consumer products, structures, and energy conversion. [3-0-1]"
+    },
+    {
+        "course_code": "ARCL_V 309",
+        "course_title": "The Archaeology of Collapse and Sustainability",
+        "course_desc": "An evaluation of the issues of sustainability and collapse of ecological and social systems through the archaeological study of the past."
+    },
+    {
+        "course_code": "ASIC_V 220",
+        "course_title": "Introduction to Sustainability",
+        "course_desc": "Sustainability examined from scientific, economic, and societal perspectives. [3-0-0] Prerequisite: Second-year standing."
+    },
+    {
+        "course_code": "ATSC_V 201",
+        "course_title": "Meteorology of Storms",
+        "course_desc": "Characteristics and physical processes of thunderstorms, tornadoes, lightning, hail, hurricanes, blizzards, cyclones and other storms. Recommended pre-requisite: completion of first-year science. [3-0-0]"
+    },
+    {
+        "course_code": "ATSC_V 313",
+        "course_title": "Renewable Energy Meteorology",
+        "course_desc": "The meteorology of hydro, wind, and solar power. Atmospheric processes affecting renewable energy on global, regional & local weather scales. [3-0-0] Prerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157 and one of APSC 160, CPSC 103, CPSC 110, DSCI 100, EOSC 211."
+    },
+    {
+        "course_code": "ATSC_V 409",
+        "course_title": "Numerical Techniques for Ocean, Atmosphere and Earth Scientists",
+        "course_desc": "Web-based introduction to the practical numerical solution of ordinary and partial differential equations including considerations of stability and accuracy. Credit will be granted for only one of ATSC 409 or ATSC 506/EOSC 511. [0-0-3] Prerequisite: One of MATH 215, MATH 255, MATH 256, MATH 265. Familiarity with a programming language is required."
+    },
+    {
+        "course_code": "BEST_V 202",
+        "course_title": "Alternative Energy Systems",
+        "course_desc": "Introduction to safe, clean, and sustainable supplies of energy. Economic, social, environmental, and policy issues raised by current systems of energy use and production are examined. [3-0-0]"
+    },
+    {
+        "course_code": "BEST_V 301",
+        "course_title": "Bioenergy",
+        "course_desc": "Interdisciplinary approach to bioenergy. The technology of the systems involved, the social and environmental implications of biomass use for energy systems. [3-0-0] Prerequisite: BEST 202."
+    },
+    {
+        "course_code": "BEST_V 401",
+        "course_title": "Carbon and Energy Economics",
+        "course_desc": "Understanding key issues for carbon management, protocols for carbon accounting and methodologies for emissions inventories and carbon costing. Economics and business response to climate change are examined. [3-0-0] Prerequisite: One of ECON 101, FRST 101."
+    },
+    {
+        "course_code": "BEST_V 402",
+        "course_title": "Industrial Ecology",
+        "course_desc": "Concepts in sustainability around technology and material use; relevance of biological ecology to industrial ecology; life cycle analysis: components and applications; and approaches to design. [3-0-2] Prerequisite: BEST 200."
+    },
+    {
+        "course_code": "BIOC_V 202",
+        "course_title": "Introductory Medical Biochemistry",
+        "course_desc": "Introduction to proteins and enzymes, carbohydrate metabolism, and glucose homeostasis. The course emphasis is on human biochemistry and it is designed for students going into health science fields. Credit will be granted for only one of BIOC 202, BIOC 203 or BIOL 201. [3-0-0] Prerequisite: One of CHEM 203, CHEM 223, CHEM 233."
+    },
+    {
+        "course_code": "BIOL_V 201",
+        "course_title": "Introduction to Biochemistry",
+        "course_desc": "Biological molecules, protein structure and enzyme action, energy transfer, central metabolic pathways and their regulation. Examples drawn from plants, animals and microorganisms. (Consult the Credit Exclusion list within the Faculty of Science section of the Calendar.) Credit will be granted for only one of BIOL 201, BIOC 202, or BIOC 203. [3-0-1] Prerequisite: BIOL 200 and one of CHEM 233, CHEM 260. ; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330."
+    },
+    {
+        "course_code": "BIOL_V 203",
+        "course_title": "Eukaryotic Microbiology",
+        "course_desc": "Introduction to the origin and diversity of protists (protozoa and algae) at both cellular and genomic levels, including the role of endosymbiosis in evolution. [3-3-0] Prerequisite: One of BIOL 121, SCIE 001. Or 8 transfer credits of first-year biology."
+    },
+    {
+        "course_code": "BIOL_V 204",
+        "course_title": "Vertebrate Structure and Function",
+        "course_desc": "Introduction to the vertebrate phyla and their evolution; a comparative study of vertebrate structure and function, with dissection of representative forms. [3-3-0] Prerequisite: One of BIOL 121, SCIE 001. Or 8 transfer credits of first-year biology."
+    },
+    {
+        "course_code": "BIOL_V 205",
+        "course_title": "Comparative Invertebrate Zoology",
+        "course_desc": "An introduction to the unity, diversity and evolutionary history of invertebrates. [3-3-0] Prerequisite: One of BIOL 121, SCIE 001. Or 8 transfer credits of first-year biology."
+    },
+    {
+        "course_code": "BIOL_V 209",
+        "course_title": "Biodiversity of Algae, Fungi and Bryophytes",
+        "course_desc": "Diversity, ecology, cell biology and evolutionary origins of multicellular eukaryotes, illustrated through mosses and liverworts; fungi and slime molds; and fresh water and marine algae. [3-3-0] Prerequisite: One of BIOL 121, SCIE 001. Or 8 transfer credits of first-year biology."
+    },
+    {
+        "course_code": "BIOL_V 210",
+        "course_title": "Vascular Plants",
+        "course_desc": "A comparative study of pteridophytes, gymnosperms and angiosperms, integrating form, function and ecology. [3-3-0] Prerequisite: One of BIOL 121, SCIE 001. or 8 transfer credits of first-year biology. Equivalency: APBI 210"
+    },
+    {
+        "course_code": "BIOL_V 230",
+        "course_title": "Fundamentals of Ecology",
+        "course_desc": "Dynamics of plant and animal populations, structure of ecological communities and functioning of ecosystems. Interpretation of research results and application to environmental issues. Labs meet once a month. Please consult the Faculty of Science Credit Exclusion Lists: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult\u2026. [3-3*-0] Prerequisite: One of BIOL 121, SCIE 001 or 8 transfer credits of first-year BIOL."
+    },
+    {
+        "course_code": "BIOL_V 301",
+        "course_title": "Biomathematics",
+        "course_desc": "Introduction to uses of mathematics in the biological sciences; experimental design and modelling of biological processes. Please consult the Faculty of Science Credit Exclusion Lists: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult\u2026. Recommended co-requisites: one of BIOL 300, STAT 200. [3-0-2]"
+    },
+    {
+        "course_code": "BIOL_V 302",
+        "course_title": "Biodiversity, Human & Planetary Health",
+        "course_desc": "Effects of biodiversity on human health, from human microbiome to ecosystem. Strategies for protecting, restoring and managing for biodiversity, human and planetary health. [3-0-1] Prerequisite: One of BIOL 111, BIOL 121, GEOS 207, SCIE 001 and third-year class standing."
+    },
+    {
+        "course_code": "BIOL_V 303",
+        "course_title": "Green Planet: Biology and History of Plants that Changed Civilizations",
+        "course_desc": "Biological, cultural, and societal significance of staple crops selected as foods, medicines or raw materials by different societies, and their pivotal role in the rise and fall of past and present civilizations. [3-0-1] Prerequisite: 3rd-year class standing or higher."
+    },
+    {
+        "course_code": "BIOL_V 314",
+        "course_title": "Elements of Biodiversity",
+        "course_desc": "The units of biodiversity, from genes to ecosystems, how they are structured in space, and their importance to human well-being and ecosystem health. [3-0-0] Prerequisite: One of APBI 260, BIOL 230, FRST 201, GEOB 207, GEOS 207. Equivalency: CONS 314"
+    },
+    {
+        "course_code": "BIOL_V 320",
+        "course_title": "Survey of Algae",
+        "course_desc": "A survey of the algae, considering their morphology, life history, classification, and ecology. [3-3-0] Prerequisite: BIOL_V 121 or SCIE_V 001."
+    },
+    {
+        "course_code": "BIOL_V 324",
+        "course_title": "Introduction to Seed Plant Taxonomy",
+        "course_desc": "Introduction to seed plant taxonomy emphasizing descriptive morphology and identification. Each student will be required to submit a plant collection. [2-3-0] Prerequisite: BIOL_V 121 or SCIE_V 001. Equivalency: APBI_V 324"
+    },
+    {
+        "course_code": "BIOL_V 327",
+        "course_title": "Introduction to Entomology",
+        "course_desc": "A survey of the structure, classification and biology of insects; ecology, life-histories and insect-plant relations. Prerequisite: BIOL_V 121 or SCIE_V 001. Equivalency: APBI_V 327"
+    },
+    {
+        "course_code": "BIOL_V 328",
+        "course_title": "Ecology and Evolution of Parasites",
+        "course_desc": "Morphology, life histories, ecology and evolution of parasites (and infectious agents more broadly) infecting humans and animals. [2-3-0] Prerequisite: BIOL_V 121 or SCIE_V 001"
+    },
+    {
+        "course_code": "BIOL_V 336",
+        "course_title": "Fundamentals of Evolutionary Biology",
+        "course_desc": "Natural selection; population genetics, quantitative genetics and systematics; classical and molecular approaches to the study of evolution. [3-0-2] Prerequisite: One of BIOL 233, BIOL 234."
+    },
+    {
+        "course_code": "BIOL_V 403",
+        "course_title": "Microbial Ecology",
+        "course_desc": "Theoretical and applied ecology of microbes. Focus on microbial symbionts of animals, plants and seaweeds. Research project development through critical analysis of microbial ecological literature and computational analysis of ecological data. [2-3-0] Prerequisite: One of BIOL_V 121, SCIE_V 001, BIOL_V 230 and one of BIOL_V 300, FRST_V 231, STAT_V 200. 4th-year class standing. This course is not eligible for Credit/D/Fail grading."
+    },
+    {
+        "course_code": "BIOL_V 406",
+        "course_title": "Plant Ecology I",
+        "course_desc": "Plant community ecology including a consideration of the major approaches to sampling, analyzing and interpreting vegetation patterns. Instruction given in field work and computer analysis of field data. [3-3-0] Prerequisite: BIOL 230. BIOL 324 is recommended."
+    },
+    {
+        "course_code": "BIOL_V 408",
+        "course_title": "Principles of Applied Ecology",
+        "course_desc": "Principles of animal and community ecology applicable to the management of animal resources; application of statistical and computer techniques for measuring, analyzing, modelling, and simulating resource systems; problems of multiple resource use. [2-2-0] Prerequisite: BIOL 300"
+    },
+    {
+        "course_code": "BIOL_V 409",
+        "course_title": "Field Course in Ecology",
+        "course_desc": "A two-week intensive course in field methods used in ecology. Fieldwork for this course is normally in the summer. A fee will be assessed for living and traveling expenses. Pre-registration required. Prerequisite: BIOL 230 and one of BIOL 300, STAT 200. BIOL 306 is recommended."
+    },
+    {
+        "course_code": "BIOL_V 411",
+        "course_title": "Insect Ecology",
+        "course_desc": "Behavioural, population and community ecology of insects. Interactions between insects and plants and the application of the principles of insect ecology to biological control of insects and weeds. [3-0-0] Prerequisite: One of BIOL 205, BIOL 327, APBI 327. Equivalency: APBI 427"
+    },
+    {
+        "course_code": "BIOL_V 412",
+        "course_title": "Plant Biogeography",
+        "course_desc": "Description and interpretation of present and past floristic vegetational patterns; integration of evolutionary, ecological, and plant biogeographical concepts. Terrestrial and aquatic plants are considered. Restricted to students of third and fourth years. [3-0-0] Prerequisite: BIOL_V 121 or SCIE_V 001."
+    },
+    {
+        "course_code": "BIOL_V 413",
+        "course_title": "Zoogeography",
+        "course_desc": "The role of physical, ecological, and evolutionary processes in determining the geographic distribution of animals including humans, with implications for speciation and conservation. Restricted to students in third and fourth year. [3-0-0] Prerequisite: BIOL_V 121 or SCIE_V 001."
+    },
+    {
+        "course_code": "BIOL_V 416",
+        "course_title": "Principles of Conservation Biology",
+        "course_desc": "Ecological basis of conserving biological diversity and ecosystem services; application of ecological theory to global and local conservation problems in the context of economic, legal, political, and social perspectives. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult\u2026. [2-0-2] Prerequisite: One of BIOL 230, FRST 201."
+    },
+    {
+        "course_code": "BIOL_V 418",
+        "course_title": "Evolutionary Ecology",
+        "course_desc": "Ecological adaptation and evolutionary processes in contemporary populations; natural selection, variation, optimization, foraging theory, coevolution, arms races; life history theory, evolution of sex, sexual selection, evolution in managed populations. [2-2-0] Prerequisite: BIOL 336 and BIOL 230."
+    },
+    {
+        "course_code": "BIOL_V 420",
+        "course_title": "Ocean Conservation and Sustainability",
+        "course_desc": "An interdisciplinary conservation course with a solutions-oriented approach to marine issues, drawing from natural sciences, social sciences, business, law, and communication. [2-0-3] Prerequisite: Fourth-year standing. This course is not eligible for Credit/D/Fail grading."
+    },
+    {
+        "course_code": "BIOL_V 424",
+        "course_title": "Tropical Ecology and Conservation",
+        "course_desc": "Ecology, function, history and conservation of tropical systems. Focus on ecological and evolutionary principles using tropical landscapes as a geographic template. Assessment of factors that make tropical systems vulnerable to degradation. Research project development using analysis of tropical ecology literature. [2-0-2] Prerequisite: BIOL_V 121 or SCIE_V 001 and one of BIOL_V 230, FRST_V 201, GEOS_V 207, GEOB_V 207."
+    },
+    {
+        "course_code": "BIOL_V 425",
+        "course_title": "Biomechanics",
+        "course_desc": "An analytical approach to the study of skeletal mechanics and animal locomotion. Selected topics in the structure and properties of biological materials, the functional design of skeletons for locomotion, and the fluid mechanics of swimming and flight. [2-3-0] Prerequisite: BIOL 325"
+    },
+    {
+        "course_code": "BIOL_V 427",
+        "course_title": "Ornithology and Herpetology",
+        "course_desc": "Ecology, evolution, behavior, and conservation of birds, amphibians, and reptiles. Laboratories and field projects will focus on identification, systematics, and natural history, with particular attention to species from British Columbia. [2-3-0] Prerequisite: BIOL_V 121 or SCIE_V 001."
+    },
+    {
+        "course_code": "BIOL_V 437",
+        "course_title": "Laboratory in Animal Cell Molecular Biology",
+        "course_desc": "The use of recombinant DNA techniques to explore problems in animal developmental biology. [2-4-0] Prerequisite: All of BIOL 331, BIOL 335 and one of BIOL 201, BIOC 202, BIOC 203."
+    },
+    {
+        "course_code": "CHBE_V 473",
+        "course_title": "Environmental Engineering and Sustainability Leadership",
+        "course_desc": "Topics may include: Life cycle assessment, circular economy, system dynamics modelling, design thinking, systems thinking, traditional ecological knowledge, adaptive and evolutionary leadership, and relationality. Credit will be granted for only one of CHBE 473 or CHBE 573. Pre-requisite: CHBE 370.  [3-0-0] This course is not eligible for Credit/D/Fail grading."
+    },
+    {
+        "course_code": "CHBE_V 482",
+        "course_title": "Energy Systems Modelling, Simulation and Optimization",
+        "course_desc": "Synthesis, design and simulation of separation and reaction systems. Steady state and dynamic simulation. Application to energy systems optimization. [3-1-0] Prerequisite: All of CHBE_V 345, CHBE_V 355, CHBE_V 376 or fourth-year standing in BASc. or BSc. This course is not eligible for Credit/D/Fail grading."
+    },
+    {
+        "course_code": "CHBE_V 483",
+        "course_title": "Energy Engineering for Climate Change and Sustainability",
+        "course_desc": "Supply and use of conventional and alternative fuels and energy. Design and operation of unit operations for processing of fossil fuels, biomass, and other energy sources. Environmental considerations of energy use. that address climate change and sustainability (water usage, environmental footprint, resource use, etc.). Credit will be granted for only one of CHBE 483, CHBE 583. [3-0-0] Prerequisite: Third-year standing or higher in BASc or BSc. This course is not eligible for Credit/D/Fail grading."
+    },
+    {
+        "course_code": "CHBE_V 488",
+        "course_title": "Carbon Capture, Conversion and Sequestration Technologies",
+        "course_desc": "Examination of carbon capture technologies, and CO2 conversion and sequestration options. Technical foundations on carbon cycle, thermodynamics, transport, absorption, adsorption, sequestration, mineralization and conversion. Analysis of cases in the context of technology, policy and regulatory framework. Credit will be granted for only one of CHBE 488 or CHBE 588. [3-0-1] Prerequisite: One of CHBE 244, MTRL 252 and one of CHBE 251, CIVL 215, MTRL 263. This course is not eligible for Credit/D/Fail grading."
+    },
+    {
+        "course_code": "CHEM_V 123",
+        "course_title": "Thermodynamics, Kinetics and Organic Chemistry",
+        "course_desc": "Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society. [3-3-0] Prerequisite: One of CHEM 111, CHEM 121, CHEM 141."
+    },
+    {
+        "course_code": "CHEM_V 203",
+        "course_title": "Introduction to Organic Chemistry",
+        "course_desc": "Structure, bonding and physical properties of aliphatic and aromatic compounds; mechanistic analysis of chemical reactivity of common functional groups with a focus on carbon-heteroatom bond formation; functional group interconversion and oxidation/reduction reactions. Only open to students in Chemistry or Biochemistry specializations. Credit will be granted for only one of CHEM 203 or CHEM 223, CHEM 225 or CHEM 233, 235. [3-3-0] Prerequisite: Either (a) CHEM 123 or (b) all of CHEM 130, CHEM 135 or (c) SCIE 001."
+    },
+    {
+        "course_code": "CHEM_V 205",
+        "course_title": "Physical Chemistry",
+        "course_desc": "Chemical kinetics and thermodynamics and spectroscopy useful in biological, medical, agricultural, earth, and related sciences. [3-0-0] Prerequisite: Either (a) SCIE 001 or (b) one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of CHEM 130, CHEM 123, CHEM 154."
+    },
+    {
+        "course_code": "CHEM_V 233",
+        "course_title": "Organic Chemistry for the Biological Sciences",
+        "course_desc": "Reactions and properties of carbonyl compounds, carbohydrates, amino acids, nucleic acids. Credit will be granted for only one of CHEM 233 or CHEM 203 or CHEM 223. [3-0-0] Prerequisite: One of CHEM 123, CHEM 130, SCIE 001."
+    },
+    {
+        "course_code": "CHEM_V 301",
+        "course_title": "Aqueous Environmental Chemistry",
+        "course_desc": "Properties and composition of natural waters, including gas and solid equilibria, pH and acidification, redox chemistry, complexation, corrosion, ion exchange, colloids and microbial transformations. [3-0-0] Prerequisite: One of CHEM 123, CHEM 130, CHBE 220. and Third year standing."
+    },
+    {
+        "course_code": "CHEM_V 302",
+        "course_title": "Atmospheric Environmental Chemistry",
+        "course_desc": "Introduction to structure, composition and chemical processes occurring in Earth's atmosphere, including interactions with solar radiation, stratospheric ozone layer, photochemical smog and acid rain. [3-0-0] Prerequisite: One of CHEM 123, CHEM 130, CHBE 220. and Third year standing."
+    },
+    {
+        "course_code": "CHEM_V 341",
+        "course_title": "Global Challenges: A Chemical Perspective",
+        "course_desc": "Importance of chemistry in society. Detailed case studies drawn from modern chemistry: human health, energy, commodity chemicals, materials, green chemistry, agriculture. [3-0-0] Prerequisite: one of CHEM_V 203, CHEM_V 211, CHEM_V 223, CHEM_V 233, CHEM_V 260."
+    },
+    {
+        "course_code": "CIVL_V 201",
+        "course_title": "Introduction to Civil Engineering",
+        "course_desc": "The design process; graphical, visualization and computational tools; civil engineering disciplines; decision-making; teamwork; conceptual design project reflecting community, economic, environmental, sustainability and technical considerations. [3-0-0] Prerequisite: One of APSC 176, ENGL 110, ENGL 111, ENGL 120, ENGL 121, WRDS 150. Corequisite: CIVL 203. This course is not eligible for Credit/D/Fail grading."
+    },
+    {
+        "course_code": "CONS_V 200",
+        "course_title": "Foundations of Conservation",
+        "course_desc": "Conceptual foundations of conservation; means of conserving nature and natural resources. [3-0-0]"
+    },
+    {
+        "course_code": "CONS_V 425",
+        "course_title": "Sustainable Energy: Policy and Governance",
+        "course_desc": "Energy as a global policy problem; current energy challenges; energy systems and energy analysis; the politics and policy of energy alternatives. [3-0-0] Prerequisite: Third- or fourth-year standing; 100-level MATH course."
+    },
+    {
+        "course_code": "CPSC_V 103",
+        "course_title": "Introduction to Systematic Program Design",
+        "course_desc": "Computation as a tool for systematic problem solving in non-computer-science disciplines. Introductory programming skills. Not for credit for students who have credit for, or exemption from, or are concurrently taking CPSC 110 or APSC 160. No programming experience expected. [3-0-1]"
+    },
+    {
+        "course_code": "CPSC_V 203",
+        "course_title": "Programming, Problem Solving, and Algorithms",
+        "course_desc": "Analysis of increasingly complex algorithmic problems, using a modern programming language and a variety of approaches. Problem decomposition and abstraction guide explorations of topics from applied algorithms, for example Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search. Not for students with credit for, or currently enrolled in, CPSC 210 or CPEN 221. [3-0-1] Prerequisite: One of CPSC 103, CPSC 110, APSC 160, EOSC 211, MATH 210, PHYS 210, COMM 337."
+    },
+    {
+        "course_code": "CPSC_V 330",
+        "course_title": "Applied Machine Learning",
+        "course_desc": "Application of machine learning tools, with an emphasis on solving practical problems. Data cleaning, feature extraction, supervised and unsupervised machine learning, reproducible workflows, and communicating results. [3-0-1] Prerequisite: Either (a) one of CPSC_V 203, CPSC_V 210, CPEN_V 221, DSCI_V 221 or (b) MATH_V 210 and one of CPSC_V 107, CPSC_V 110."
+    },
+    {
+        "course_code": "CPSC_V 430",
+        "course_title": "Computers and Society",
+        "course_desc": "Impact of computer technology on society; historical perspectives; social and economic consequences of large-scale information processing systems and automatic control; legal and ethical problems in computer applications. Computers and the individual: machine versus human capabilities, fact and fancy; problematic interface between man and machine. [3-0-0] Prerequisite: 3 credits of Computer Science and at least third-year standing."
+    },
+    {
+        "course_code": "DES_V 230",
+        "course_title": "Sustainability by Design",
+        "course_desc": "Interactions between human and natural urban systems using local and international examples of successful sustainable community designs. This course is open to all UBC students, regardless of prior experience. Credit will be granted for only one of ENDS 221 or DES 230. This course is not eligible for Credit/D/Fail grading."
+    },
+    {
+        "course_code": "DSCI_V 310",
+        "course_title": "Reproducible and Trustworthy Workflows for Data Science",
+        "course_desc": "Data science methods to automate the running and testing of code and analytic reports, manage data analysis software dependencies, package and deploy software for data analysis, and collaborate with others using version control. [3-0-1] Prerequisite: DSCI 100 and either (a) one of CPSC 203, CPSC 210, CPEN 221 or (b) one of MATH 210, ECON 323 and one of CPSC 107, CPSC 110."
+    },
+    {
+        "course_code": "DSCI_V 320",
+        "course_title": "Visualization for Data Science",
+        "course_desc": "Analysis, design, and implementation of static and interactive visual representations; visualization literacy; data communication; exploratory Data Analysis; application of theoretical principles to visualization development. [3-1.5-0] Prerequisite: STAT_V 201 and one of CPSC_V 203, CPSC_V 210, CPEN_V 221, DSCI_V 221."
+    },
+    {
+        "course_code": "DSCI_V 430",
+        "course_title": "Fairness, Accountability, Transparency and Ethics (FATE) in Data Science",
+        "course_desc": "Ethical application of data science and machine learning algorithms. Application of ethical theories in real-world case studies. Data ownership, collection, and validity. Algorithm auditing, fairness and transparency. Reducing unfairness in algorithms. Deployment of predictive models and dissemination of results. [3-0-0] Prerequisite: One of CPSC 330, CPSC 340, STAT 301, STAT 406."
+    },
+    {
+        "course_code": "ECON_V 471",
+        "course_title": "Economics of Nonrenewable Resources",
+        "course_desc": "Application of economic analysis to the management of nonrenewable natural resources. Emphasis is placed on the economics of alternative energy sources. Other topics include mineral economics, criteria for the optimal use of resources, and measurement of resources. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295."
+    },
+    {
+        "course_code": "ENVR_V 410",
+        "course_title": "Energy, Environment, and Society",
+        "course_desc": "The role of energy in human societies throughout history and the environmental and social implications of energy use. Coverage of both the science and policy of energy use. Energy supply and demand, energy transitions, analytical tools, impacts, and alternatives. [3-0-0] Prerequisite: Fourth-year standing in B.Sc., B.A.Sc. or related programs."
+    },
+    {
+        "course_code": "ENVR_V 420",
+        "course_title": "Ecohydrology of Watersheds and Water Systems",
+        "course_desc": "Analysis of water resources from a water-in-ecosystem perspective. Application to natural, managed, and urban systems, considering ecological interactions with hydrological processes. Exploration of biogeochemical processes related to water quality, and human impacts on water resources. [3-0-0] Prerequisite: Third or fourth-year standing in Science, Applied Science, Land and Food Systems, or Forestry."
+    },
+    {
+        "course_code": "ENVR_V 430",
+        "course_title": "Ecological Dimensions of Sustainability",
+        "course_desc": "Current issues. Application to agricultural, energy, and resource systems in terrestrial and aquatic contexts. Analysis of complex problems; incorporation of science into novel interdisciplinary solutions. [3-0-0] Prerequisite: Class standing 3, and either (1) one of ENVR 300, BIOL 230, FRST 201 or (2) other demonstrated ecology background."
+    },
+    {
+        "course_code": "ENVR_V 440",
+        "course_title": "Analytical Methods in Sustainability Science",
+        "course_desc": "Sustainability analysis through a series of case studies. Example approaches include cost-benefit analysis, trade-offs analysis, and life-cycle analysis. Active learning in a computer lab using real-world data. [2-2-0] Prerequisite: One of ENVR 200, ASIC 220, SCIE 220, GEOG 211. Third-year standing."
+    },
+    {
+        "course_code": "EOSC_V 211",
+        "course_title": "Computer Methods in Earth, Ocean and Atmospheric Sciences",
+        "course_desc": "Mathematical computer-based problem solving in the physical, chemical, and biological sciences. Problems drawn from studies of the earth, the oceans and the atmosphere. Credit will be granted for only one of APSC 160 or EOSC 211. [2-0-2] Prerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001."
+    },
+    {
+        "course_code": "EOSC_V 220",
+        "course_title": "Introductory Mineralogy",
+        "course_desc": "Introduction to crystallography, physical and chemical properties of minerals. Recognition and identification of common minerals. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult\u2026. [2-3-0] Prerequisite: One of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141, SCIE 001."
+    },
+    {
+        "course_code": "EOSC_V 221",
+        "course_title": "Introductory Petrology",
+        "course_desc": "Optical mineralogy and the classification and genesis of igneous, metamorphic and sedimentary rocks. [2-3-0] Prerequisite: [EOSC220]"
+    },
+    {
+        "course_code": "EOSC_V 222",
+        "course_title": "Geological Time and Stratigraphy",
+        "course_desc": "Measuring geological time and understanding Earth history using stratigraphic principles, paleontology and radioactive decay. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult\u2026. [2-2-0] Prerequisite: Second-year standing in Science. One of EOSC 1**, EOSC 210, GEOB 103 is recommended."
+    },
+    {
+        "course_code": "EOSC_V 250",
+        "course_title": "Fields and Fluxes",
+        "course_desc": "Application of classical theory of scalar and vector fields to geophysical sciences. Conductive, convective and radiative energy flux, gravitation, electrostatics, and magnetostatics. Gauss' and Stokes' theorems. [3-0-0] Prerequisite: One of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157. Corequisite: [MATH200] One of PHYS 108, 118, 158 is recommended."
+    },
+    {
+        "course_code": "EOSC_V 270",
+        "course_title": "Marine Ecosystems",
+        "course_desc": "Introduction to diversity of marine habitats and ecosystems; hydrothermal vent, intertidal, coral reef, estuarine, deep sea, and polar ecosystems; impacts of ecosystem change; evolution of ocean plankton; invasive species; climate change; pollution. [3-0-0] Prerequisite: One of SCIE 001, CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141, CHEM 154."
+    },
+    {
+        "course_code": "EOSC_V 354",
+        "course_title": "Analysis of Time Series and Inverse Theory for Earth Scientists",
+        "course_desc": "Continuous and discrete Fourier transforms, correlation and convolution, spectral estimates, optimum least-squares filters, deconvolution and prediction, frequency-wave number filtering. A practical course on computer techniques applied to the analysis of a wide range of geophysical phenomena. [3-2-0] Prerequisite: Either (a) SCIE 001 or (b) one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157."
+    },
+    {
+        "course_code": "EOSC_V 372",
+        "course_title": "Introductory Oceanography: Circulation and Plankton",
+        "course_desc": "Physical and chemical processes and their controls on the distribution of plankton in the ocean. [3-0-0] Prerequisite: Either (a) SCIE 001 or (b) one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141, CHEM 154 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157."
+    },
+    {
+        "course_code": "EOSC_V 373",
+        "course_title": "Introductory Oceanography: Climate and Ecosystems",
+        "course_desc": "Physical, chemical, and biological processes in the ocean and their interaction with climate and marine food-webs. [3-0-0] Prerequisite: EOSC 372."
+    },
+    {
+        "course_code": "EOSC_V 410",
+        "course_title": "Geoscientific Data Analysis and Empirical Modelling",
+        "course_desc": "Application of data analysis and empirical modelling strategies for conducting a data-oriented research in geosciences; from setting research questions and hypothesis to delivering and interpreting results. Examples are drawn from across the Earth, ocean, atmospheric and planetary sciences. [3-0-0] Prerequisite: One of STAT 200, BIOL 300 and one of MATH 200, MATH 221, EOSC 250 and one of EOSC 211, CPSC 203, CPSC 210."
+    },
+    {
+        "course_code": "EOSC_V 440",
+        "course_title": "Physical Climate Modelling",
+        "course_desc": "Understanding climate models from 1D energy balance to fully coupled atmosphere-ocean general circulation models. Physics and thermodynamics of radiative balance and clouds. Spatial and temporal climate variability. Run simple climate models and analyze data from complex models. [3-0-0] Prerequisites: 3rd year class standing, and one of EOSC 211, EOSC 213, CPSC 203, CPSC 210, and MATH 200, and one of EOSC 112, ATSC 201, EOSC 340, EOSC 345, GEOS 102,GEOG 312, PHYS 333."
+    },
+    {
+        "course_code": "EOSC_V 470",
+        "course_title": "Biological Oceanography",
+        "course_desc": "A quantitative examination of processes regulating the abundance, distribution and production of phytoplankton, zooplankton, microbes and fish. Controls of primary and secondary production, ecosystem dynamics and foodwebs. [3-0-0] Prerequisite: One of EOSC 372, EOSC 373."
+    },
+    {
+        "course_code": "EOSC_V 471",
+        "course_title": "Waves, Currents and Ocean Mixing",
+        "course_desc": "Use of observations, theory and model results to solve physical oceanographic problems including applications to transport and mixing of pollutants or nutrients. [3-0-0] Prerequisite: EOSC 211 and one of ATSC 201, EOSC 372, GEOB 200 and one of SCIE 001, PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157."
+    },
+    {
+        "course_code": "EOSC_V 474",
+        "course_title": "Marine Pollution",
+        "course_desc": "An interdisciplinary study of pollution, with examples drawn from coastal and oceanic environments, including areas of local interest. Intended for third and fourth-year students with a background in the sciences. [3-0-0] Prerequisite: Third-year standing in Science."
+    },
+    {
+        "course_code": "EOSC_V 475",
+        "course_title": "Marine Microbiology",
+        "course_desc": "Advanced biology, ecology and diversity of marine microbes. Emphasis on the roles of bacteria and viruses in marine foodwebs and geochemical cycles. [3-0-0] Prerequisite: A minimum of 6 credits of third-year level life science courses."
+    },
+    {
+        "course_code": "EOSC_V 478",
+        "course_title": "Introduction to Fisheries Science",
+        "course_desc": "An introduction to the ecology and management of freshwater and marine fisheries. Topics include: population dynamics, species interactions, communities, environmental influences, stock assessment, economics and sociology of fisheries. Laboratories will consist of numerical analyses and simulations. [2-0-3]"
+    },
+    {
+        "course_code": "FRE_V 326",
+        "course_title": "Empirical Methods for Food and Resource Economics",
+        "course_desc": "Introduction to empirical methods with applications for problems in food and resource economics; standard linear regression and methods to address data deficiencies; interpretation of regression results for forecasting and policy analysis. Prerequisite: One of LFS_V 252, STAT_V 200, BIOL_V 300, FRST_V 231, ECON_V 325. This course is not eligible for Credit/D/Fail grading."
+    },
+    {
+        "course_code": "FRE_V 374",
+        "course_title": "Land and Resource Economics",
+        "course_desc": "Willingness to pay, opportunity costs, externalities, and market failures in natural resource markets; dynamic efficiency; economic applications including mineral, marine, forest, land, water, and biodiversity. Prerequisite: One of ECON_V 101, ECON_V 310, FRST_V 101, LFS_V 101. Equivalency: ECON_V 374"
+    },
+    {
+        "course_code": "FRE_V 474",
+        "course_title": "Causal Inference in the Economics of Natural Resource Conservation",
+        "course_desc": "Estimating causal relationships in natural resource economics; applied data analysis; econometrics; counterfactual thinking, and applications to the economics of: natural resource conservation, species loss and extraction, protected areas, international trade of wildlife products, and endangered species legislation. Prerequisite: One of LFS_V 252, STAT_V 200, BIOL_V 300, ECON_V 325, COMM_V 291, FRST_V 231 and one of ECON_V 101, ECON_V 310, FRST_V 101, LFS_V 101."
+    },
+    {
+        "course_code": "FRE_V 490",
+        "course_title": "Current Issues in Food and Resource Economics",
+        "course_desc": "[3-0] Prerequisite: One of ECON_V 101, ECON_V 310."
+    },
+    {
+        "course_code": "FRST_V 101",
+        "course_title": "Principles of Microeconomics for Forestry and Land and Food Systems",
+        "course_desc": "Principles of microeconomics and their applications in forestry and land and food systems. The basic concept of the economy to focus on private and social decision making related to the use of land, especially in agriculture, forestry, and conservation. Credit will be granted for only one of FRST 101, ECON 101, or LFS 101. [3-0-1] Equivalency: LFS101, ECON101"
+    },
+    {
+        "course_code": "GEOG_V 302",
+        "course_title": "Climate Justice",
+        "course_desc": "Concepts and debates in the interdisciplinary field and practice of climate justice; the role of systemic processes and patterns underlying climate change and climate injustices. Credit will only be granted for one of GEOG 302 or ENST 302. Recommended: Second-year standing. Equivalency: ENST 302"
+    },
+    {
+        "course_code": "GEOG_V 310",
+        "course_title": "Environment and Sustainability",
+        "course_desc": "Concepts of environment, resources and sustainability; the roles of physical and human geography in understanding the interaction of humans and the environment; introduction to management of environment-resource systems. Credit will be granted for only one of GEOG 310 or ENST 310. Equivalency: ENST310"
+    },
+    {
+        "course_code": "GEOG_V 318",
+        "course_title": "Sustainability in a Changing Environment",
+        "course_desc": "Biophysical and human causes of short- and long-term environmental change at various spatial scales, including measurement, interpretation, and policy. Credit will only be granted for one of GEOG 318 or ENST 318. Recommended pre-requisite: GEOG 310. Equivalency: ENST 318"
+    },
+    {
+        "course_code": "GEOG_V 412",
+        "course_title": "Water Management: Theory, Policy, and Practice.",
+        "course_desc": "Interdisciplinary analysis of critical water issues, in Canada and internationally. Focus on social science perspectives. Emphasis on presentation, research, and essay-writing skills. Credit will only be granted for one of GEOG 412 or ENST 412. Prerequisite: GEOG 310. Equivalency: ENST 412 This course is not eligible for Credit/D/Fail grading."
+    },
+    {
+        "course_code": "GEOS_V 200",
+        "course_title": "Introduction to Atmospheric Environments",
+        "course_desc": "Physical principles underlying weather and climates. Thermal, moisture and wind climates from the scale of plants and animals to the globe. Daily weather systems and climate change. Credit will be granted for only one of GEOS_V (or GEOB_V) 200, GEOS_V (or GEOB_V) 204, or APBI_V 244. This course is recommended for students with credit in one of GEOS_V 102, GEOB_V 102, or second-year standing in science. [3-2*-0] Equivalency: APBI_V 244 and GEOB_V 200."
+    },
+    {
+        "course_code": "GEOS_V 204",
+        "course_title": "Introduction to Biometeorology",
+        "course_desc": "Basic principles and processes of climatology. Energy and water balance concepts. Weather systems and climate change, microclimate of soils, crops, forests, and animals. Credit will be granted for only one of GEOS_V (or GEOB_V) 200, GEOS_V (or GEOB_V) 204, or APBI_V 244. [3-2-0] Equivalency: GEOB_V 204."
+    },
+    {
+        "course_code": "GEOS_V 206",
+        "course_title": "Landscapes: Introduction to Geomorphology",
+        "course_desc": "Earth surface processes shaping the landscape; identification of hazards and hazardous areas associated with these processes; introduction to techniques for measurement and analysis at various spatial and time scales; field trips are required. This course is recommended for students with credit in one of GEOB_V 103, GEOS_V 103, EOSC_V 110, PHYS_V 101, PHYS_V 106, PHYS_V 107, PHYS_V 117, PHYS_V 131, PHYS_V 157, SCIE_V 001. [3-2*-0] Credit will be granted for only one of GEOB_V 206 or GEOS_V 206. Equivalency: GEOB_V 206"
+    },
+    {
+        "course_code": "GEOS_V 207",
+        "course_title": "Introduction to Biodiversity",
+        "course_desc": "Geographical ecology emphasizing contemporary species distributions at local to global spatial scales, population and community dynamics, and human impacts. Labs emphasize collecting data (sometimes outdoors) and interpreting results. This course is recommended for students with credit in one of GEOB_V 102, GEOS_V 102. [3-2*-0] Credit will be granted for only one of GEOB_V 207 or GEOS_V 207. Equivalency: GEOB_V 207"
+    },
+    {
+        "course_code": "GEOS_V 300",
+        "course_title": "Microscale Weather and Climate",
+        "course_desc": "Meteorology and climatology at the micro-, local, and meso-scales. Interactions between land surfaces and atmosphere. Basics of atmospheric turbulence and transfer processes. Microclimates on scales of a leaf to those of a large valley. Recommended prerequisites: one of GEOB_V 200, GEOS_V 200, GEOB_V 204, GEOS_V 204, ATSC_V 201. [3-0-0] Credit will be granted for only one of GEOB_V 300 or GEOS_V 300. Equivalency: GEOB_V 300."
+    },
+    {
+        "course_code": "GEOS_V 303",
+        "course_title": "Tropical Ecosystems in a Changing World",
+        "course_desc": "Biogeography and ecology of tropical systems, including patterns of species diversity, forest dynamics, plant-animal interactions, carbon and nutrient cycling. Impacts of global environmental change and conservation strategies for tropical ecosystems. Recommended prerequisites: one of GEOB_V 207, GEOS_V 207, BIOL_V 230, FRST_V 201. [3-0-0] Credit will be granted for only one of GEOB_V 303 or GEOS_V 303. Equivalency: GEOB_V 303."
+    },
+    {
+        "course_code": "GEOS_V 304",
+        "course_title": "Synoptic Meteorology and Climatology",
+        "course_desc": "Analysis of meteorological fields, diagnostic analysis of synoptic weather systems, applications of synoptic meteorology. Requires participation in weekly weather map discussion. Recommended prerequisites: one of GEOB_V 200, GEOS_V 200, ATSC_V 201. [2-2-0] Credit will be granted for only one of GEOB_V 304 or GEOS_V 304. Equivalency: GEOB_V 304."
+    },
+    {
+        "course_code": "GEOS_V 305",
+        "course_title": "Introduction to Hydrology",
+        "course_desc": "Principles of hydrology at site, watershed, and larger regional scales. Introduction to techniques of measurement and analysis. Emphasizes surface water hydrology of western North America. Recommended prerequisites: one of GEOB_V 200, GEOS_V 200, GEOB_V 204, GEOS_V 204, APBI_V 244, ATSC_V 201, and one of PHYS_V 100-level or CHEM_V 123. [3-2*-0] Credit will be granted for only one of GEOB_V 305 or GEOS_V 305. Equivalency: GEOB_V 305."
+    },
+    {
+        "course_code": "GEOS_V 306",
+        "course_title": "Paleoecology: Lessons from Ancient Earth",
+        "course_desc": "Paleoecology of terrestrial ecosystems, particularly during the Quaternary, application of historical context to inform contemporary policy and management dilemmas, and including a foundation in relevant ecosystem and ecological concepts. This course is recommended for students with credit in either (a) one of GEOB_V 102, GEOS_V 102, GEOB_V 200, GEOS_V 200, GEOB_V 204, GEOS_V 204, GEOB_V 207, GEOS_V 207, GEOG_V 211, BIOL_V 230 or (b) EOSC_V 340. [3-0-0]"
+    },
+    {
+        "course_code": "GEOS_V 307",
+        "course_title": "Biogeography and Global Change",
+        "course_desc": "Biogeographic concepts in understanding responses in ecosystems to environmental change at global, regional, and local scales. Conservation issues such as the loss of biodiversity and endangered species. Recommended prerequisites: one of BIOL_V 230, GEOB_V 207, GEOS_V 207, FRST_V 201. [3-2*-0] Credit will be granted for only one of GEOB_V 307 or GEOS_V 307. Equivalency: GEOB_V 307."
+    },
+    {
+        "course_code": "GEOS_V 308",
+        "course_title": "Earth\u2019s Recent Past: Climate Change, Glaciers and Landforms",
+        "course_desc": "Quaternary landscape development emphasizing the history of glaciation with special reference to western North America; applications of geomorphology in resource development and land management; interpretation of Quaternary materials. This course is recommended for students with credit in one of EOSC_V 320, EOSC_V 330, GEOB_V 206, GEOS_V 206. [3-2*-0] Credit will only be granted for one of GEOB_V 308 or GEOS_V 308. Equivalency: GEOB_V 308."
+    },
+    {
+        "course_code": "GEOS_V 309",
+        "course_title": "Geographical Sciences Field Course",
+        "course_desc": "Field sampling, instrumentation, surveying, mapping techniques, and data analysis; mandatory multi-day field camp in May or June. Special fees and liability insurance are required. Recommended prerequisites: one of BIOL_V 230, GEOB_V 207, GEOS_V 207 and one of GEOB_V 200, GEOS_V 200, GEOB_V 204, GEOS_V 204. [0-3-0] Credit will be granted for only one of GEOB_V 309 or GEOS_V 309. Equivalency: GEOB_V 309. This course is not eligible for Credit/D/Fail grading."
+    },
+    {
+        "course_code": "GEOS_V 370",
+        "course_title": "Advanced Geographic Information Science",
+        "course_desc": "Theoretical and practical aspects of Geographic Information Systems, including cartographic modelling, digital terrain models, management issues, and spatial interpolation. Recommended prerequisites: Third-year standing in ENSC, GEOG, ENST, URST, or GEOS (or GEOB) specializations, with some introductory knowledge of GIS. [2-2-0] Credit will be granted for only one of GEOB_V 370 or GEOS_V 370. Equivalency: GEOB_V 370."
+    },
+    {
+        "course_code": "GEOS_V 373",
+        "course_title": "Remote Sensing: Monitoring Earth\u2019s Surface from Afar",
+        "course_desc": "Aerial photography; measurement from aerial photographs; photo-interpretation in geographic analysis; remote sensing of the earth's surface and atmosphere. This course is recommended for students with credit in one of GEOB_V 270, GEOS_V 270, or third-year standing in ENSC or GEOS (or GEOB) specializations. [3-2*-0] Credit will only be granted for one of GEOB_V 373 or GEOS_V 373. Equivalency: GEOB_V 373."
+    },
+    {
+        "course_code": "GEOS_V 400",
+        "course_title": "Global Change Science",
+        "course_desc": "Processes controlling the planetary cycles of elements like carbon, nitrogen and phosphorus, the human perturbation of these biogeochemical cycles, and the consequences for the atmosphere, terrestrial ecosystems, and aquatic ecosystems. Recommended prerequisites: either (a) SCIE_V 001 or b) BIOL_V 121 and one of CHEM_V 110, CHEM_V 111, CHEM_V 120, CHEM_V 121, CHEM_V 141. Fourth-year standing is also required. [3-0-1] Credit will be granted for only one of GEOB_V 400 or GEOS_V 400. Equivalency: GEOB_V 400."
+    },
+    {
+        "course_code": "GEOS_V 401",
+        "course_title": "Urban Meteorology",
+        "course_desc": "The impact of urbanization upon atmospheric processes and climates. The energy and water balances of cities. Meteorological effects (urban heat island, precipitation modification, etc.) and their significance. Models of the urban atmosphere. [3-0-0] Prerequisite: One of GEOB_V 204, GEOS_V 204, GEOB_V 300, GEOS_V 300, AGRO_V 244, APBI_V 244. Credit will be granted for only one of GEOB_V 401 or GEOS_V 401. Equivalency: GEOB_V 401."
+    },
+    {
+        "course_code": "GEOS_V 402",
+        "course_title": "Air Pollution Meteorology",
+        "course_desc": "The nature of atmospheric pollutants. The ability of the atmosphere to disperse, transform, and remove pollutants. Air pollution dispersion models. Air quality monitoring, criteria, and standards. [3-0-0] Prerequisite: One of GEOB_V 200, GEOS_V 200, GEOB_V 300, GEOS_V 300. Credit will be granted for only one of GEOB_V 402 or GEOS_V 402. Equivalency: GEOB_V 402."
+    },
+    {
+        "course_code": "GEOS_V 403",
+        "course_title": "Catchment Hydrology",
+        "course_desc": "Hydrometeorology; runoff processes; streamwater chemistry in relation to runoff processes; effects of climate variations and land cover change on streamflow regimes; models of catchment hydrology. [3-0-0] Prerequisite: One of GEOB_V 200, GEOS_V 200, GEOB_V 204, GEOS_V 204 and one of GEOB_V 305, GEOS_V 305, FRST_V 385 and one of STAT_V 200, FRST_V 231, BIOL_V 300. Credit will be granted for only one of GEOB_V 403 or GEOS_V 403. Equivalency: GEOB_V 403."
+    },
+    {
+        "course_code": "GEOS_V 405",
+        "course_title": "Rivers and Landforms: Fluvial Geomorphology",
+        "course_desc": "Introduction to open channel flow and sediment transport. River morphology and channel types. Palaeohydrology. The development of channel networks. This course is recommended for students with credit in one of EOSC_V 320, EOSC_V 330, GEOB_V 206, GEOS_V 206. [2-3-0] Credit will only be granted for one of GEOB_V 405 or GEOS_V 405. Equivalency: GEOB_V 405"
+    },
+    {
+        "course_code": "GEOS_V 406",
+        "course_title": "Watershed Dynamics and Morphology",
+        "course_desc": "Hillslope and stream channel processes and their rates of operation. Analysis and modelling geomorphic processes and associated hazards at the watershed scale. Applications in geoscience and engineering. This course is recommended for students with credit in one of GEOB_V 206, GEOS_V 206, EOSC_V 330. [2-2-0] Credit will be granted for only one of GEOB_V 406 or GEOS_V 406. Equivalency: GEOB_V 406."
+    },
+    {
+        "course_code": "GEOS_V 407",
+        "course_title": "Vegetation Dynamics: Disturbance, Climate and Human Impacts",
+        "course_desc": "Investigation of vegetation dynamics integrating theory and research to address contemporary issues of global environmental change. Students will conduct fieldwork and learn to analyze data and interpret results. [2-3-0] Prerequisite: One of BIOL_V 230, GEOB_V 207, GEOS_V 207, FRST_V 201. Credit will be granted for only one of GEOB_V 407 or GEOS_V 407. Equivalency: GEOB_V 407."
+    },
+    {
+        "course_code": "GEOS_V 408",
+        "course_title": "The Changing Cryosphere: Snow, Ice and Climate Change",
+        "course_desc": "Formation of ice masses and their evolution including snowpacks, glaciers, and ice sheets. Relationships between ice and climate including records of climate change, glacier dynamics and ice-related hazards. [3-0-0] Prerequisite: One of PHYS_V 101, PHYS_V 106, PHYS_V 107, PHYS_V 117, PHYS_V 131, PHYS_V 157, SCIE_V 001, and one of GEOB_V 206, GEOS_V 206, GEOB_V 305, GEOS_V 305, GEOB_V 308, GEOS_V 308. Credit will be granted for only one of GEOB _V 408 or GEOS _V 408. Equivalency: GEOB_V 408."
+    },
+    {
+        "course_code": "GEOS_V 409",
+        "course_title": "Advanced Field Studies in Geographical Sciences",
+        "course_desc": "Advanced research design, field sampling methods, instrumentation, surveying, mapping techniques, data analysis and management; self-directed field-based research. [2-2-0] Prerequisite: One of GEOB_V 309, GEOS_V 309. Third-year standing in Geographical Sciences, Environmental Sciences or Major in Geography (Environmental and Sustainability). Credit will be granted for only one of GEOB_V 409 or GEOS_V 409. Equivalency: GEOB_V 409."
+    },
+    {
+        "course_code": "GEOS_V 415",
+        "course_title": "River Restoration: Science and Society",
+        "course_desc": "Projects designed to give students research development and design experience. Projects are provided by research faculty in Science and Engineering and from local industry. Recommended prerequisites: one of GEOB_V 206, GEOS_V 206, GEOB_V 305, GEOS_V 305, GEOB_V 405, GEOS_V 405, GEOB_V 406, GEOS_V 406, EOSC_V 325, EOSC_V 329, EOSC_V 330. [3-0-0] Credit will be granted for only one of GEOB_V 415 or GEOS_V 415. Equivalency: GEOB_V 415."
+    },
+    {
+        "course_code": "ISCI_V 360",
+        "course_title": "Systems Approaches to Regional Sustainability",
+        "course_desc": "Application of systems science encompassing geological, hydrological, ecological, atmospheric sciences, and energy systems approaches to study regional sustainability. [3-0-0] Prerequisite: Third-year or higher standing in the Faculty of Science."
+    },
+    {
+        "course_code": "PHYS_V 333",
+        "course_title": "Energy and Climate",
+        "course_desc": "The fundamental physics behind global issues of energy use and climate change. [3-0-0] Prerequisite: Either (a) one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 102, PHYS 106, PHYS 107, PHYS 108, PHYS 117, PHYS 118, PHYS 131, PHYS 153, PHYS 157, PHYS 158; or (b) SCIE 001."
+    },
+    {
+        "course_code": "POLI_V 351",
+        "course_title": "Environmental Politics and Policy",
+        "course_desc": "Domestic and international determinants of environmental policy; alternative approaches to environmental protection. The sustainable development paradigm; public opinion and interest group pressures; risk assessment; mandatory, voluntary and market-based policy instruments. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+    },
+    {
+        "course_code": "SCIE_V 420",
+        "course_title": "Sustainability for Community and the World",
+        "course_desc": "Explores systems thinking in the context of sustainability and also re-examines the familiar three pillar model of sustainability - society, ecology, and economics - highlighting its uses and limitations. [3-0-0] Prerequisite: One of ASIC 200, ASIC 220, APBI 260, APBI 265, ARCL 309, BIOL 230, CHEM 301, CHEM 302, CHEM 341, CIVL 200, CONS 330, ECON 210, ENDS 221, ENVR 200, ENVR 300, EOSC 270, EOSC 340, EOSC 345, FRST 100, GEOG 211, GEOG 310, HIST 106, ISCI 360, ISCI 361, LAW 386, LFS 250, PHYS 333, POLI 351, PSYC 321, PSYC 421, SCIE 120, SCIE 320. Fourth-year standing or permission of the instructor."
+    },
+    {
+        "course_code": "SOCI_V 230",
+        "course_title": "Shopping, Society, and Sustainability",
+        "course_desc": "Major theories of consumer society, evaluating impacts of shopping on human and non-human environments and popular solutions to these impacts."
+    },
+    {
+        "course_code": "SPPH_V 301",
+        "course_title": "Understanding the Sociocultural Determinants of the Health of Populations",
+        "course_desc": "The idea of \"population health,\" and the implementation and evaluation of programs or policies to improve health. Open to all students. [3-0-0]"
+    },
+    {
+        "course_code": "SPPH_V 303",
+        "course_title": "Environmental Impacts on Human Health",
+        "course_desc": "Harmful environmental exposures in water, air, food; aspects of environment that are beneficial for health; environmental justice; emerging environmental health threats; how epidemiology and risk assessment inform public health policy and practice."
+    },
+    {
+        "course_code": "STAT_V 301",
+        "course_title": "Statistical Modelling for Data Science",
+        "course_desc": "Data analysis using statistical models and algorithms (e.g., linear and logistic regression, peeking, bandit, and variable selection algorithms) in case studies from different disciplines. Generative versus out-of-sample predictive models. Reproducible and transparent workflows for computer scripts and reports. [3-0-1] Prerequisite: STAT 201 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184, SCIE 001."
+    },
+    {
+        "course_code": "UFOR_V 403",
+        "course_title": "Ecological Restoration",
+        "course_desc": "Perspectives and practices of ecological restoration in diverse ecosystems worldwide. Prerequisite: One of FRST 201, NRES 201, BIOL 230. And third-year standing. Equivalency: APBI423 This course is not eligible for Credit/D/Fail grading."
+    }
+]
