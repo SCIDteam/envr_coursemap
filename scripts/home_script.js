@@ -210,7 +210,7 @@ document.addEventListener("DOMContentLoaded", function() {
                             // Find the full course data for this prerequisite
                             const prereqCourse = coursesData.find(course => course.course_code === prereq);
                             if (selectedThemes.size === 0) {
-                                return prereqCourse.envr_course ? "#EEDFCC" : "#f0f0f0";
+                                return prereqCourse?.envr_course ? "#EEDFCC" : "#f0f0f0";
                             } else {
                                 // Check if the prerequisite course has any of the selected themes
                                 const hasSelectedTheme = prereqCourse && prereqCourse.themes.some(theme => selectedThemes.has(theme));
@@ -218,7 +218,7 @@ document.addEventListener("DOMContentLoaded", function() {
                                 if (hasSelectedTheme) {
                                     return "red";
                                 } else {
-                                    return prereq.envr_course ? "#EEDFCC" : "#f0f0f0";
+                                    return prereqCourse?.envr_course ? "#EEDFCC" : "#f0f0f0";
                                 }
                             }
                         });                        
@@ -235,7 +235,7 @@ document.addEventListener("DOMContentLoaded", function() {
                             // Find the full course data for this prerequisite
                             const coreqCourse = coursesData.find(course => course.course_code === coreq);
                             if (selectedThemes.size === 0) {
-                                return coreqCourse.envr_course ? "#EEDFCC" : "#f0f0f0";
+                                return coreqCourse?.envr_course ? "#EEDFCC" : "#f0f0f0";
                             } else {                                                          
                                 // Check if the prerequisite course has any of the selected themes
                                 const hasSelectedTheme = coreqCourse && coreqCourse.themes.some(theme => selectedThemes.has(theme));
@@ -243,7 +243,7 @@ document.addEventListener("DOMContentLoaded", function() {
                                 if (hasSelectedTheme) {
                                     return "red";
                                 } else {
-                                    return coreq.envr_course ? "#EEDFCC" : "#f0f0f0";
+                                    return coreqCourse?.envr_course ? "#EEDFCC" : "#f0f0f0";
                                 }
                             }
                         });
