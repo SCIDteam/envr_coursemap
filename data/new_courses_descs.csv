@@ -1,0 +1,143 @@
+course name,course code,course description,prerequisite,corequisite,year level
+ENVR,100,"Environmental Sciences 100: (3) Exploring Environmental Science
+Introduction to topics in Earth Science, Ecology, Human Health and Energy from an Environmental Science perspective. [3-0-0] Y",,,1
+ENVR,205,"Environmental Sciences 205: (1) Environmental Science in Practice I
+Community building, land connections and academic and career planning in environmental science. [1.5-0-0] Y",,,2
+ENVR,240,"Environmental Sciences 240: (3) Environmental Problem Solving
+Practical and theoretical approaches to tackling complex environmental challenges with emphasis on critical thinking to analyze real-world issues. [3-0-0] Prerequisite: MATH_V 101. Corequisite: One of STAT_V 200, 201, BIOL_V 300. Y",MATH 101,"STAT 200, STAT 201, BIOL 300",2
+ENVR,305,"Environmental Sciences 305: (1) Environmental Science in Practice II
+Mentoring, incorporating feedback, strengthening land connections and academic and career planning in environmental science. [1.5-0-0] Prerequisite: ENVR_V 205 Y",ENVR 205,,3
+ENVR,350,"Environmental Sciences 350: (3) Applied Environmental Ethics 
+The complexities of socio-ecological issues facing practitioners of environmental sciences including ethics and social equity. [3-0-0]
+Prerequisite: 3rd-year class standing. Y",,,3
+ENVR,450,"Environmental Sciences 450: (3) Environmental Policy and Law
+The creation, implementation and enforcement of environmental laws and policies at the international, national, and sub-national levels. Examination and critique of laws, principles, and policies dealing with issues such as climate change, pollution, and biological diversity. [3-0-0] Prerequisite: 4th-year class standing. Y",,,4
+EOSC,340,"Earth and Ocean Sciences 340: (3) Climate Change: Causes and Solutions
+Mechanisms and processes of past and future global climate change. Climate models and projected impacts. Climate solutions including carbon sequestration, adaptation and geoengineering. [3-0-0]. Prerequisite: Either (a) SCIE 001 or (b) one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141, CHEM 154 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157. Y","SCIE 001, CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141, CHEM 154, MATH 101, MATH 103, MATH 105, MATH 121, PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157",,3
+EOSC,345,"Earth and Ocean Sciences 345: (3) Climate Change: Evidence and Impacts
+Climate science fundamentals: Energy balance, ocean and atmospheric circulation. Future climate scenarios. Processes driving spatial and temporal climate variability. Analysis of observations and climate projection data to evaluate the anthropogenic impact on climate. [3-0-0] Prerequisite: 3rd year class standing. Y",,,3
+SCIE,113,"First Year Seminar in Science (3) First-Year Seminar in Science
+Small-group experience where students study science in society, scientific process, and how to communicate scientific concepts. Enrolment limited to students in the B. Sc. program in Science. [3-0-0] This course is not eligible for Credit/D/Fail grading N",,,1
+CHEM,123,"Chemistry 123: (4) Thermodynamics, Kinetics and Organic Chemistry
+Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society. [3-3-0] Prerequisite: One of CHEM 111, CHEM 121, CHEM 141. N
+*
+*****","CHEM 111, CHEM 121, CHEM 141",,1
+SPPH,303,"School of Population and Public Health 303: (3) Environmental Impacts on Human Health
+Harmful environmental exposures in water, air, food; aspects of environment that are beneficial for health; environmental justice; emerging environmental health threats; how epidemiology and risk assessment inform public health policy and practice. Y
+*****",,,3
+EOSC,211,"Earth and Ocean Sciences 211: (3) Computer Methods in Earth, Ocean and Atmospheric Sciences
+Mathematical computer-based problem solving in the physical, chemical, and biological sciences. Problems drawn from studies of the earth, the oceans and the atmosphere. Credit will be granted for only one of APSC 160 or EOSC 211. [2-0-2] Prerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001. Y
+*
+****","MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001",,2
+CPSC,103,"Computer Science 103: (3) Introduction to Systematic Program Design
+Computation as a tool for systematic problem solving in non-computer-science disciplines. Introductory programming skills. Not for credit for students who have credit for, or exemption from, or are concurrently taking CPSC 110 or APSC 160. No programming experience expected. [3-0-1] Y
+****",,,1
+CPSC,203,"Computer Science 203: (3) Programming, Problem Solving, and Algorithms
+Analysis of increasingly complex algorithmic problems, using a modern programming language and a variety of approaches. Problem decomposition and abstraction guide explorations of topics from applied algorithms, for example Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search. Not for students with credit for, or currently enrolled in, CPSC 210 or CPEN 221. [3-0-1] Prerequisite: One of CPSC 103, CPSC 110, APSC 160, EOSC 211, MATH 210, PHYS 210, COMM 337. Y
+****","CPSC 103, CPSC 110, APSC 160, EOSC 211, MATH 210, PHYS 210, COMM 337",,2
+MATH,200,"Math 200: (3) Calculus III
+Analytic geometry in 2 and 3 dimensions, partial and directional derivatives, chain rule, maxima and minima, second derivative test, Lagrange multipliers, multiple integrals with applications. [3-0-0] Prerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001. Y
+****","MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001",,2
+MATH,221,"Math 221: (3) Matrix Algebra
+Systems of linear equations, operations on matrices, determinants, eigenvalues and eigenvectors, diagonalization of symmetric matrices. This course is intended for first and second year students. [3-0-0] Prerequisite: Either (a) one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184, SCIE 001 or (b) advanced credit for MATH 100. Y
+****","MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184, SCIE 001",,2
+EOSC,440,"Earth and Ocean Sciences 440: (3) Physical Climate Modelling
+Understanding climate models from 1D energy balance to fully coupled general circulation models. Physics and thermodynamics of radiative balance and clouds. Spatial and temporal climate variability. Run simple climate models and analyze data from complex models. [3-0-0] Prerequisites: 3rd year class standing, and one of EOSC 211, EOSC 213, CPSC 203, CPSC 210, and MATH 200, and one of EOSC 112, ATSC 201, EOSC 340, EOSC 345, GEOS 102,GEOG 312, PHYS 333. Y
+****","EOSC 211, EOSC 213, CPSC 203, CPSC 210, MATH 200, EOSC 112, ATSC 201, EOSC 340, EOSC 345, GEOS 102,GEOG 312, PHYS 333",,4
+EOSC,372,"Earth and Ocean Sciences 372: (3) Introductory Oceanography: Circulation and Plankton
+Physical and chemical processes and their controls on the distribution of plankton in the ocean. [3-0-0] Prerequisite: Either (a) SCIE 001 or (b) one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141, CHEM 154 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157. N
+*","SCIE 001, CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141, CHEM 154, MATH 101, MATH 103, MATH 105, MATH 121, PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157",,3
+BIOL,230,"Biology 230: (3) Fundamentals of Ecology
+Dynamics of plant and animal populations, structure of ecological communities and functioning of ecosystems. Interpretation of research results and application to environmental issues. Labs meet once a month. [3-3-0] Prerequisite: One of BIOL 121, SCIE 001 or 8 transfer credits of first-year BIOL. N
+**","BIOL 121, SCIE 001",,2
+BIOL,306,"Biology 306: (3) Advanced Ecology
+Ecology of populations, communities and ecosystems. Tests of ecological theory with experiments and application to environmental issues. Labs meet once a month. [3-3*-0] Prerequisite: BIOL 230. N
+**",BIOL 230,,3
+PHYS,333,"Physics 333: (3) Energy and Climate
+The fundamental physics behind global issues of energy use and climate change. [3-0-0] Prerequisite: Either (a) one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 102, PHYS 106, PHYS 107, PHYS 108, PHYS 117, PHYS 118, PHYS 131, PHYS 153, PHYS 157, PHYS 158; or (b) SCIE 001 N
+***","MATH 101, MATH 103, MATH 105, MATH 121, PHYS 101, PHYS 102, PHYS 106, PHYS 107, PHYS 108, PHYS 117, PHYS 118, PHYS 131, PHYS 153, PHYS 157, PHYS 158, SCIE 001",,3
+ENVR,410,"Environmental Sciences 410: (3) Energy, Environment, and Society
+The role of energy in human societies throughout history and the environmental and social implications of energy use. Coverage of both the science and policy of energy use. Energy supply and demand, energy transitions, analytical tools, impacts, and alternatives. [3-0-0] Prerequisite: Fourth-year standing in B.Sc., B.A.Sc. or related programs. N
+***",,,4
+ENVR,420,"Environmental Science 420: (3) Ecohydrology of Watersheds and Water Systems
+Analysis of water resources from a water-in-ecosystem perspective. Application to natural, managed, and urban systems, considering ecological interactions with hydrological processes. Exploration of biogeochemical processes related to water quality, and human impacts on water resources. [3-0-0] Prerequisite: Third or fourth-year standing in Science, Applied Science, Land and Food Systems, or Forestry. N
+*",,,4
+ENVR,430,"Environmental Science 430: (3) Ecological Dimensions of Sustainability
+Current issues. Application to agricultural, energy, and resource systems in terrestrial and aquatic contexts. Analysis of complex problems; incorporation of science into novel interdisciplinary solutions. [3-0-0] Prerequisite: Class standing 3, and either (1) one of ENVR 300, BIOL 230, FRST 201 or (2) other demonstrated ecology background. N
+**","ENVR 300, BIOL 230, FRST 201",,4
+ENVR,440,"Environmental Sciences 440: (3) Analytical Methods in Sustainability Science
+Sustainability analysis through a series of case studies. Example approaches include cost-benefit analysis, trade-offs analysis, and life-cycle analysis. Active learning in a computer lab using real-world data. [2-2-0] Prerequisite: One of ENVR 200, ASIC 220, SCIE 220, GEOG 211. Third-year standing. N
+**
+***","ENVR 200, ASIC 220, SCIE 220, GEOG 211",,4
+ENVR,100,"Environmental Sciences 100: (3) Exploring Environmental Science
+Introduction to topics in Earth Science, Ecology, Human Health and Energy from an Environmental Science perspective. [3-0-0] Y",,,1
+ENVR,205,"Environmental Sciences 205: (1) Environmental Science in Practice I
+Community building, land connections and academic and career planning in environmental science. [1.5-0-0] Y",,,2
+ENVR,240,"Environmental Sciences 240: (3) Environmental Problem Solving
+Practical and theoretical approaches to tackling complex environmental challenges with emphasis on critical thinking to analyze real-world issues. [3-0-0] Prerequisite: MATH_V 101. Corequisite: One of STAT_V 200, 201, BIOL_V 300. Y",MATH 101,"STAT 200, STAT 201, BIOL 300",2
+ENVR,305,"Environmental Sciences 305: (1) Environmental Science in Practice II
+Mentoring, incorporating feedback, strengthening land connections and academic and career planning in environmental science. [1.5-0-0] Prerequisite: ENVR_V 205 Y",ENVR 205,,3
+ENVR,350,"Environmental Sciences 350: (3) Applied Environmental Ethics 
+The complexities of socio-ecological issues facing practitioners of environmental sciences including ethics and social equity. [3-0-0]
+Prerequisite: 3rd-year class standing. Y",,,3
+ENVR,450,"Environmental Sciences 450: (3) Environmental Policy and Law
+The creation, implementation and enforcement of environmental laws and policies at the international, national, and sub-national levels. Examination and critique of laws, principles, and policies dealing with issues such as climate change, pollution, and biological diversity. [3-0-0] Prerequisite: 4th-year class standing. Y",,,4
+EOSC,340,"Earth and Ocean Sciences 340: (3) Climate Change: Causes and Solutions
+Mechanisms and processes of past and future global climate change. Climate models and projected impacts. Climate solutions including carbon sequestration, adaptation and geoengineering. [3-0-0]. Prerequisite: Either (a) SCIE 001 or (b) one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141, CHEM 154 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157. Y","SCIE 001, CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141, CHEM 154, MATH 101, MATH 103, MATH 105, MATH 121, PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157",,3
+EOSC,345,"Earth and Ocean Sciences 345: (3) Climate Change: Evidence and Impacts
+Climate science fundamentals: Energy balance, ocean and atmospheric circulation. Future climate scenarios. Processes driving spatial and temporal climate variability. Analysis of observations and climate projection data to evaluate the anthropogenic impact on climate. [3-0-0] Prerequisite: 3rd year class standing. Y",,,3
+SCIE,113,"First Year Seminar in Science (3) First-Year Seminar in Science
+Small-group experience where students study science in society, scientific process, and how to communicate scientific concepts. Enrolment limited to students in the B. Sc. program in Science. [3-0-0] This course is not eligible for Credit/D/Fail grading N",,,1
+CHEM,123,"Chemistry 123: (4) Thermodynamics, Kinetics and Organic Chemistry
+Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society. [3-3-0] Prerequisite: One of CHEM 111, CHEM 121, CHEM 141. N
+*
+*****","CHEM 111, CHEM 121, CHEM 141",,1
+SPPH,303,"School of Population and Public Health 303: (3) Environmental Impacts on Human Health
+Harmful environmental exposures in water, air, food; aspects of environment that are beneficial for health; environmental justice; emerging environmental health threats; how epidemiology and risk assessment inform public health policy and practice. Y
+*****",,,3
+EOSC,211,"Earth and Ocean Sciences 211: (3) Computer Methods in Earth, Ocean and Atmospheric Sciences
+Mathematical computer-based problem solving in the physical, chemical, and biological sciences. Problems drawn from studies of the earth, the oceans and the atmosphere. Credit will be granted for only one of APSC 160 or EOSC 211. [2-0-2] Prerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001. Y
+*
+****","MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001",,2
+CPSC,103,"Computer Science 103: (3) Introduction to Systematic Program Design
+Computation as a tool for systematic problem solving in non-computer-science disciplines. Introductory programming skills. Not for credit for students who have credit for, or exemption from, or are concurrently taking CPSC 110 or APSC 160. No programming experience expected. [3-0-1] Y
+****",,,1
+CPSC,203,"Computer Science 203: (3) Programming, Problem Solving, and Algorithms
+Analysis of increasingly complex algorithmic problems, using a modern programming language and a variety of approaches. Problem decomposition and abstraction guide explorations of topics from applied algorithms, for example Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search. Not for students with credit for, or currently enrolled in, CPSC 210 or CPEN 221. [3-0-1] Prerequisite: One of CPSC 103, CPSC 110, APSC 160, EOSC 211, MATH 210, PHYS 210, COMM 337. Y
+****","CPSC 103, CPSC 110, APSC 160, EOSC 211, MATH 210, PHYS 210, COMM 337",,2
+MATH,200,"Math 200: (3) Calculus III
+Analytic geometry in 2 and 3 dimensions, partial and directional derivatives, chain rule, maxima and minima, second derivative test, Lagrange multipliers, multiple integrals with applications. [3-0-0] Prerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001. Y
+****","MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001",,2
+MATH,221,"Math 221: (3) Matrix Algebra
+Systems of linear equations, operations on matrices, determinants, eigenvalues and eigenvectors, diagonalization of symmetric matrices. This course is intended for first and second year students. [3-0-0] Prerequisite: Either (a) one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184, SCIE 001 or (b) advanced credit for MATH 100. Y
+****","MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184, SCIE 001",,2
+EOSC,440,"Earth and Ocean Sciences 440: (3) Physical Climate Modelling
+Understanding climate models from 1D energy balance to fully coupled general circulation models. Physics and thermodynamics of radiative balance and clouds. Spatial and temporal climate variability. Run simple climate models and analyze data from complex models. [3-0-0] Prerequisites: 3rd year class standing, and one of EOSC 211, EOSC 213, CPSC 203, CPSC 210, and MATH 200, and one of EOSC 112, ATSC 201, EOSC 340, EOSC 345, GEOS 102,GEOG 312, PHYS 333. Y
+****","EOSC 211, EOSC 213, CPSC 203, CPSC 210, MATH 200, EOSC 112, ATSC 201, EOSC 340, EOSC 345, GEOS 102,GEOG 312, PHYS 333",,4
+EOSC,372,"Earth and Ocean Sciences 372: (3) Introductory Oceanography: Circulation and Plankton
+Physical and chemical processes and their controls on the distribution of plankton in the ocean. [3-0-0] Prerequisite: Either (a) SCIE 001 or (b) one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141, CHEM 154 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157. N
+*","SCIE 001, CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141, CHEM 154, MATH 101, MATH 103, MATH 105, MATH 121, PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157",,3
+BIOL,230,"Biology 230: (3) Fundamentals of Ecology
+Dynamics of plant and animal populations, structure of ecological communities and functioning of ecosystems. Interpretation of research results and application to environmental issues. Labs meet once a month. [3-3-0] Prerequisite: One of BIOL 121, SCIE 001 or 8 transfer credits of first-year BIOL. N
+**","BIOL 121, SCIE 001",,2
+BIOL,306,"Biology 306: (3) Advanced Ecology
+Ecology of populations, communities and ecosystems. Tests of ecological theory with experiments and application to environmental issues. Labs meet once a month. [3-3*-0] Prerequisite: BIOL 230. N
+**",BIOL 230,,3
+PHYS,333,"Physics 333: (3) Energy and Climate
+The fundamental physics behind global issues of energy use and climate change. [3-0-0] Prerequisite: Either (a) one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 102, PHYS 106, PHYS 107, PHYS 108, PHYS 117, PHYS 118, PHYS 131, PHYS 153, PHYS 157, PHYS 158; or (b) SCIE 001 N
+***","MATH 101, MATH 103, MATH 105, MATH 121, PHYS 101, PHYS 102, PHYS 106, PHYS 107, PHYS 108, PHYS 117, PHYS 118, PHYS 131, PHYS 153, PHYS 157, PHYS 158, SCIE 001",,3
+ENVR,410,"Environmental Sciences 410: (3) Energy, Environment, and Society
+The role of energy in human societies throughout history and the environmental and social implications of energy use. Coverage of both the science and policy of energy use. Energy supply and demand, energy transitions, analytical tools, impacts, and alternatives. [3-0-0] Prerequisite: Fourth-year standing in B.Sc., B.A.Sc. or related programs. N
+***",,,4
+ENVR,420,"Environmental Science 420: (3) Ecohydrology of Watersheds and Water Systems
+Analysis of water resources from a water-in-ecosystem perspective. Application to natural, managed, and urban systems, considering ecological interactions with hydrological processes. Exploration of biogeochemical processes related to water quality, and human impacts on water resources. [3-0-0] Prerequisite: Third or fourth-year standing in Science, Applied Science, Land and Food Systems, or Forestry. N
+*",,,4
+ENVR,430,"Environmental Science 430: (3) Ecological Dimensions of Sustainability
+Current issues. Application to agricultural, energy, and resource systems in terrestrial and aquatic contexts. Analysis of complex problems; incorporation of science into novel interdisciplinary solutions. [3-0-0] Prerequisite: Class standing 3, and either (1) one of ENVR 300, BIOL 230, FRST 201 or (2) other demonstrated ecology background. N
+**","ENVR 300, BIOL 230, FRST 201",,4
+ENVR,440,"Environmental Sciences 440: (3) Analytical Methods in Sustainability Science
+Sustainability analysis through a series of case studies. Example approaches include cost-benefit analysis, trade-offs analysis, and life-cycle analysis. Active learning in a computer lab using real-world data. [2-2-0] Prerequisite: One of ENVR 200, ASIC 220, SCIE 220, GEOG 211. Third-year standing. N
+**
+***","ENVR 200, ASIC 220, SCIE 220, GEOG 211",,4
+ENVR,449,"Environmental Sciences 449: (6) Environmental Science Honours Thesis
+[3-0-0] Prerequisite: [ENVR300] and fourth-year standing in the B.Sc. Environmental Sciences honours program.",ENVR 300,,4

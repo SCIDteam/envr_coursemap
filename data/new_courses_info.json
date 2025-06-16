@@ -1,0 +1,607 @@
+[
+    {
+        "course_code": "ENVR_V 100",
+        "course_title": "Exploring Environmental Science",
+        "description": "Introduction to topics in Earth Science, Ecology, Human Health and Energy from an Environmental Science perspective. [3-0-0]",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 205",
+        "course_title": "Environmental Science in Practice I",
+        "description": "Community building, land connections and academic and career planning in environmental science. [1.5-0-0]",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 240",
+        "course_title": "Environmental Problem Solving",
+        "description": "Practical and theoretical approaches to tackling complex environmental challenges with emphasis on critical thinking to analyze real-world issues. [3-0-0] Prerequisite: MATH_V 101. Corequisite: One of STAT_V 200, 201, BIOL_V 300.",
+        "prerequisites": [
+            "MATH 101"
+        ],
+        "corequisites": [
+            "STAT 200",
+            "STAT 201",
+            "BIOL 300"
+        ]
+    },
+    {
+        "course_code": "ENVR_V 305",
+        "course_title": "Environmental Science in Practice II",
+        "description": "Mentoring, incorporating feedback, strengthening land connections and academic and career planning in environmental science. [1.5-0-0] Prerequisite: ENVR_V 205",
+        "prerequisites": [
+            "ENVR 205"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 350",
+        "course_title": "Applied Environmental Ethics ",
+        "description": "The complexities of socio-ecological issues facing practitioners of environmental sciences including ethics and social equity. [3-0-0]",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 450",
+        "course_title": "Environmental Policy and Law",
+        "description": "The creation, implementation and enforcement of environmental laws and policies at the international, national, and sub-national levels. Examination and critique of laws, principles, and policies dealing with issues such as climate change, pollution, and biological diversity. [3-0-0] Prerequisite: 4th-year class standing.",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "EOSC_V 340",
+        "course_title": "Climate Change: Causes and Solutions",
+        "description": "Mechanisms and processes of past and future global climate change. Climate models and projected impacts. Climate solutions including carbon sequestration, adaptation and geoengineering. [3-0-0]. Prerequisite: Either (a) SCIE 001 or (b) one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141, CHEM 154 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157.",
+        "prerequisites": [
+            "SCIE 001",
+            "CHEM 110",
+            "CHEM 111",
+            "CHEM 120",
+            "CHEM 121",
+            "CHEM 141",
+            "CHEM 154",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "PHYS 101",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 153",
+            "PHYS 157"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "EOSC_V 345",
+        "course_title": "Climate Change: Evidence and Impacts",
+        "description": "Climate science fundamentals: Energy balance, ocean and atmospheric circulation. Future climate scenarios. Processes driving spatial and temporal climate variability. Analysis of observations and climate projection data to evaluate the anthropogenic impact on climate. [3-0-0] Prerequisite: 3rd year class standing.",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "SCIE_V 113",
+        "course_title": "First-Year Seminar in Science",
+        "description": "Small-group experience where students study science in society, scientific process, and how to communicate scientific concepts. Enrolment limited to students in the B. Sc. program in Science. [3-0-0] This course is not eligible for Credit/D/Fail grading",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "CHEM_V 123",
+        "course_title": "Thermodynamics, Kinetics and Organic Chemistry",
+        "description": "Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society. [3-3-0] Prerequisite: One of CHEM 111, CHEM 121, CHEM 141.",
+        "prerequisites": [
+            "CHEM 111",
+            "CHEM 121",
+            "CHEM 141"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "SPPH_V 303",
+        "course_title": "Environmental Impacts on Human Health",
+        "description": "Harmful environmental exposures in water, air, food; aspects of environment that are beneficial for health; environmental justice; emerging environmental health threats; how epidemiology and risk assessment inform public health policy and practice.",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "EOSC_V 211",
+        "course_title": "Computer Methods in Earth, Ocean and Atmospheric Sciences",
+        "description": "Mathematical computer-based problem solving in the physical, chemical, and biological sciences. Problems drawn from studies of the earth, the oceans and the atmosphere. Credit will be granted for only one of APSC 160 or EOSC 211. [2-0-2] Prerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.",
+        "prerequisites": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "CPSC_V 103",
+        "course_title": "Introduction to Systematic Program Design",
+        "description": "Computation as a tool for systematic problem solving in non-computer-science disciplines. Introductory programming skills. Not for credit for students who have credit for, or exemption from, or are concurrently taking CPSC 110 or APSC 160. No programming experience expected. [3-0-1]",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "CPSC_V 203",
+        "course_title": "Programming, Problem Solving, and Algorithms",
+        "description": "Analysis of increasingly complex algorithmic problems, using a modern programming language and a variety of approaches. Problem decomposition and abstraction guide explorations of topics from applied algorithms, for example Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search. Not for students with credit for, or currently enrolled in, CPSC 210 or CPEN 221. [3-0-1] Prerequisite: One of CPSC 103, CPSC 110, APSC 160, EOSC 211, MATH 210, PHYS 210, COMM 337.",
+        "prerequisites": [
+            "CPSC 103",
+            "CPSC 110",
+            "APSC 160",
+            "EOSC 211",
+            "MATH 210",
+            "PHYS 210",
+            "COMM 337"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "MATH_V 200",
+        "course_title": "Calculus III",
+        "description": "Analytic geometry in 2 and 3 dimensions, partial and directional derivatives, chain rule, maxima and minima, second derivative test, Lagrange multipliers, multiple integrals with applications. [3-0-0] Prerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.",
+        "prerequisites": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "MATH_V 221",
+        "course_title": "Matrix Algebra",
+        "description": "Systems of linear equations, operations on matrices, determinants, eigenvalues and eigenvectors, diagonalization of symmetric matrices. This course is intended for first and second year students. [3-0-0] Prerequisite: Either (a) one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184, SCIE 001 or (b) advanced credit for MATH 100.",
+        "prerequisites": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184",
+            "SCIE 001"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "EOSC_V 440",
+        "course_title": "Physical Climate Modelling",
+        "description": "Understanding climate models from 1D energy balance to fully coupled general circulation models. Physics and thermodynamics of radiative balance and clouds. Spatial and temporal climate variability. Run simple climate models and analyze data from complex models. [3-0-0] Prerequisites: 3rd year class standing, and one of EOSC 211, EOSC 213, CPSC 203, CPSC 210, and MATH 200, and one of EOSC 112, ATSC 201, EOSC 340, EOSC 345, GEOS 102,GEOG 312, PHYS 333.",
+        "prerequisites": [
+            "EOSC 211",
+            "EOSC 213",
+            "CPSC 203",
+            "CPSC 210",
+            "MATH 200",
+            "EOSC 112",
+            "ATSC 201",
+            "EOSC 340",
+            "EOSC 345",
+            "GEOS 102",
+            "GEOG 312",
+            "PHYS 333"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "EOSC_V 372",
+        "course_title": "Introductory Oceanography: Circulation and Plankton",
+        "description": "Physical and chemical processes and their controls on the distribution of plankton in the ocean. [3-0-0] Prerequisite: Either (a) SCIE 001 or (b) one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141, CHEM 154 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157.",
+        "prerequisites": [
+            "SCIE 001",
+            "CHEM 110",
+            "CHEM 111",
+            "CHEM 120",
+            "CHEM 121",
+            "CHEM 141",
+            "CHEM 154",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "PHYS 101",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 153",
+            "PHYS 157"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "BIOL_V 230",
+        "course_title": "Fundamentals of Ecology",
+        "description": "Dynamics of plant and animal populations, structure of ecological communities and functioning of ecosystems. Interpretation of research results and application to environmental issues. Labs meet once a month. [3-3-0] Prerequisite: One of BIOL 121, SCIE 001 or 8 transfer credits of first-year BIOL.",
+        "prerequisites": [
+            "BIOL 121",
+            "SCIE 001"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "BIOL_V 306",
+        "course_title": "Advanced Ecology",
+        "description": "Ecology of populations, communities and ecosystems. Tests of ecological theory with experiments and application to environmental issues. Labs meet once a month. [3-3-0] Prerequisite: BIOL 230.",
+        "prerequisites": [
+            "BIOL 230"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "PHYS_V 333",
+        "course_title": "Energy and Climate",
+        "description": "The fundamental physics behind global issues of energy use and climate change. [3-0-0] Prerequisite: Either (a) one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 102, PHYS 106, PHYS 107, PHYS 108, PHYS 117, PHYS 118, PHYS 131, PHYS 153, PHYS 157, PHYS 158; or (b) SCIE 001",
+        "prerequisites": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "PHYS 101",
+            "PHYS 102",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 108",
+            "PHYS 117",
+            "PHYS 118",
+            "PHYS 131",
+            "PHYS 153",
+            "PHYS 157",
+            "PHYS 158",
+            "SCIE 001"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 410",
+        "course_title": "Energy, Environment, and Society",
+        "description": "The role of energy in human societies throughout history and the environmental and social implications of energy use. Coverage of both the science and policy of energy use. Energy supply and demand, energy transitions, analytical tools, impacts, and alternatives. [3-0-0] Prerequisite: Fourth-year standing in B.Sc., B.A.Sc. or related programs.",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 420",
+        "course_title": "Ecohydrology of Watersheds and Water Systems",
+        "description": "Analysis of water resources from a water-in-ecosystem perspective. Application to natural, managed, and urban systems, considering ecological interactions with hydrological processes. Exploration of biogeochemical processes related to water quality, and human impacts on water resources. [3-0-0] Prerequisite: Third or fourth-year standing in Science, Applied Science, Land and Food Systems, or Forestry.",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 430",
+        "course_title": "Ecological Dimensions of Sustainability",
+        "description": "Current issues. Application to agricultural, energy, and resource systems in terrestrial and aquatic contexts. Analysis of complex problems; incorporation of science into novel interdisciplinary solutions. [3-0-0] Prerequisite: Class standing 3, and either (1) one of ENVR 300, BIOL 230, FRST 201 or (2) other demonstrated ecology background.",
+        "prerequisites": [
+            "ENVR 300",
+            "BIOL 230",
+            "FRST 201"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 440",
+        "course_title": "Analytical Methods in Sustainability Science",
+        "description": "Sustainability analysis through a series of case studies. Example approaches include cost-benefit analysis, trade-offs analysis, and life-cycle analysis. Active learning in a computer lab using real-world data. [2-2-0] Prerequisite: One of ENVR 200, ASIC 220, SCIE 220, GEOG 211. Third-year standing.",
+        "prerequisites": [
+            "ENVR 200",
+            "ASIC 220",
+            "SCIE 220",
+            "GEOG 211"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 100",
+        "course_title": "Exploring Environmental Science",
+        "description": "Introduction to topics in Earth Science, Ecology, Human Health and Energy from an Environmental Science perspective. [3-0-0]",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 205",
+        "course_title": "Environmental Science in Practice I",
+        "description": "Community building, land connections and academic and career planning in environmental science. [1.5-0-0]",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 240",
+        "course_title": "Environmental Problem Solving",
+        "description": "Practical and theoretical approaches to tackling complex environmental challenges with emphasis on critical thinking to analyze real-world issues. [3-0-0] Prerequisite: MATH_V 101. Corequisite: One of STAT_V 200, 201, BIOL_V 300.",
+        "prerequisites": [
+            "MATH 101"
+        ],
+        "corequisites": [
+            "STAT 200",
+            "STAT 201",
+            "BIOL 300"
+        ]
+    },
+    {
+        "course_code": "ENVR_V 305",
+        "course_title": "Environmental Science in Practice II",
+        "description": "Mentoring, incorporating feedback, strengthening land connections and academic and career planning in environmental science. [1.5-0-0] Prerequisite: ENVR_V 205",
+        "prerequisites": [
+            "ENVR 205"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 350",
+        "course_title": "Applied Environmental Ethics ",
+        "description": "The complexities of socio-ecological issues facing practitioners of environmental sciences including ethics and social equity. [3-0-0]",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 450",
+        "course_title": "Environmental Policy and Law",
+        "description": "The creation, implementation and enforcement of environmental laws and policies at the international, national, and sub-national levels. Examination and critique of laws, principles, and policies dealing with issues such as climate change, pollution, and biological diversity. [3-0-0] Prerequisite: 4th-year class standing.",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "EOSC_V 340",
+        "course_title": "Climate Change: Causes and Solutions",
+        "description": "Mechanisms and processes of past and future global climate change. Climate models and projected impacts. Climate solutions including carbon sequestration, adaptation and geoengineering. [3-0-0]. Prerequisite: Either (a) SCIE 001 or (b) one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141, CHEM 154 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157.",
+        "prerequisites": [
+            "SCIE 001",
+            "CHEM 110",
+            "CHEM 111",
+            "CHEM 120",
+            "CHEM 121",
+            "CHEM 141",
+            "CHEM 154",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "PHYS 101",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 153",
+            "PHYS 157"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "EOSC_V 345",
+        "course_title": "Climate Change: Evidence and Impacts",
+        "description": "Climate science fundamentals: Energy balance, ocean and atmospheric circulation. Future climate scenarios. Processes driving spatial and temporal climate variability. Analysis of observations and climate projection data to evaluate the anthropogenic impact on climate. [3-0-0] Prerequisite: 3rd year class standing.",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "SCIE_V 113",
+        "course_title": "First-Year Seminar in Science",
+        "description": "Small-group experience where students study science in society, scientific process, and how to communicate scientific concepts. Enrolment limited to students in the B. Sc. program in Science. [3-0-0] This course is not eligible for Credit/D/Fail grading",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "CHEM_V 123",
+        "course_title": "Thermodynamics, Kinetics and Organic Chemistry",
+        "description": "Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society. [3-3-0] Prerequisite: One of CHEM 111, CHEM 121, CHEM 141.",
+        "prerequisites": [
+            "CHEM 111",
+            "CHEM 121",
+            "CHEM 141"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "SPPH_V 303",
+        "course_title": "Environmental Impacts on Human Health",
+        "description": "Harmful environmental exposures in water, air, food; aspects of environment that are beneficial for health; environmental justice; emerging environmental health threats; how epidemiology and risk assessment inform public health policy and practice.",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "EOSC_V 211",
+        "course_title": "Computer Methods in Earth, Ocean and Atmospheric Sciences",
+        "description": "Mathematical computer-based problem solving in the physical, chemical, and biological sciences. Problems drawn from studies of the earth, the oceans and the atmosphere. Credit will be granted for only one of APSC 160 or EOSC 211. [2-0-2] Prerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.",
+        "prerequisites": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "CPSC_V 103",
+        "course_title": "Introduction to Systematic Program Design",
+        "description": "Computation as a tool for systematic problem solving in non-computer-science disciplines. Introductory programming skills. Not for credit for students who have credit for, or exemption from, or are concurrently taking CPSC 110 or APSC 160. No programming experience expected. [3-0-1]",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "CPSC_V 203",
+        "course_title": "Programming, Problem Solving, and Algorithms",
+        "description": "Analysis of increasingly complex algorithmic problems, using a modern programming language and a variety of approaches. Problem decomposition and abstraction guide explorations of topics from applied algorithms, for example Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search. Not for students with credit for, or currently enrolled in, CPSC 210 or CPEN 221. [3-0-1] Prerequisite: One of CPSC 103, CPSC 110, APSC 160, EOSC 211, MATH 210, PHYS 210, COMM 337.",
+        "prerequisites": [
+            "CPSC 103",
+            "CPSC 110",
+            "APSC 160",
+            "EOSC 211",
+            "MATH 210",
+            "PHYS 210",
+            "COMM 337"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "MATH_V 200",
+        "course_title": "Calculus III",
+        "description": "Analytic geometry in 2 and 3 dimensions, partial and directional derivatives, chain rule, maxima and minima, second derivative test, Lagrange multipliers, multiple integrals with applications. [3-0-0] Prerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.",
+        "prerequisites": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "MATH_V 221",
+        "course_title": "Matrix Algebra",
+        "description": "Systems of linear equations, operations on matrices, determinants, eigenvalues and eigenvectors, diagonalization of symmetric matrices. This course is intended for first and second year students. [3-0-0] Prerequisite: Either (a) one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184, SCIE 001 or (b) advanced credit for MATH 100.",
+        "prerequisites": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184",
+            "SCIE 001"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "EOSC_V 440",
+        "course_title": "Physical Climate Modelling",
+        "description": "Understanding climate models from 1D energy balance to fully coupled general circulation models. Physics and thermodynamics of radiative balance and clouds. Spatial and temporal climate variability. Run simple climate models and analyze data from complex models. [3-0-0] Prerequisites: 3rd year class standing, and one of EOSC 211, EOSC 213, CPSC 203, CPSC 210, and MATH 200, and one of EOSC 112, ATSC 201, EOSC 340, EOSC 345, GEOS 102,GEOG 312, PHYS 333.",
+        "prerequisites": [
+            "EOSC 211",
+            "EOSC 213",
+            "CPSC 203",
+            "CPSC 210",
+            "MATH 200",
+            "EOSC 112",
+            "ATSC 201",
+            "EOSC 340",
+            "EOSC 345",
+            "GEOS 102",
+            "GEOG 312",
+            "PHYS 333"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "EOSC_V 372",
+        "course_title": "Introductory Oceanography: Circulation and Plankton",
+        "description": "Physical and chemical processes and their controls on the distribution of plankton in the ocean. [3-0-0] Prerequisite: Either (a) SCIE 001 or (b) one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141, CHEM 154 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157.",
+        "prerequisites": [
+            "SCIE 001",
+            "CHEM 110",
+            "CHEM 111",
+            "CHEM 120",
+            "CHEM 121",
+            "CHEM 141",
+            "CHEM 154",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "PHYS 101",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 153",
+            "PHYS 157"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "BIOL_V 230",
+        "course_title": "Fundamentals of Ecology",
+        "description": "Dynamics of plant and animal populations, structure of ecological communities and functioning of ecosystems. Interpretation of research results and application to environmental issues. Labs meet once a month. [3-3-0] Prerequisite: One of BIOL 121, SCIE 001 or 8 transfer credits of first-year BIOL.",
+        "prerequisites": [
+            "BIOL 121",
+            "SCIE 001"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "BIOL_V 306",
+        "course_title": "Advanced Ecology",
+        "description": "Ecology of populations, communities and ecosystems. Tests of ecological theory with experiments and application to environmental issues. Labs meet once a month. [3-3-0] Prerequisite: BIOL 230.",
+        "prerequisites": [
+            "BIOL 230"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "PHYS_V 333",
+        "course_title": "Energy and Climate",
+        "description": "The fundamental physics behind global issues of energy use and climate change. [3-0-0] Prerequisite: Either (a) one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 102, PHYS 106, PHYS 107, PHYS 108, PHYS 117, PHYS 118, PHYS 131, PHYS 153, PHYS 157, PHYS 158; or (b) SCIE 001",
+        "prerequisites": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "PHYS 101",
+            "PHYS 102",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 108",
+            "PHYS 117",
+            "PHYS 118",
+            "PHYS 131",
+            "PHYS 153",
+            "PHYS 157",
+            "PHYS 158",
+            "SCIE 001"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 410",
+        "course_title": "Energy, Environment, and Society",
+        "description": "The role of energy in human societies throughout history and the environmental and social implications of energy use. Coverage of both the science and policy of energy use. Energy supply and demand, energy transitions, analytical tools, impacts, and alternatives. [3-0-0] Prerequisite: Fourth-year standing in B.Sc., B.A.Sc. or related programs.",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 420",
+        "course_title": "Ecohydrology of Watersheds and Water Systems",
+        "description": "Analysis of water resources from a water-in-ecosystem perspective. Application to natural, managed, and urban systems, considering ecological interactions with hydrological processes. Exploration of biogeochemical processes related to water quality, and human impacts on water resources. [3-0-0] Prerequisite: Third or fourth-year standing in Science, Applied Science, Land and Food Systems, or Forestry.",
+        "prerequisites": [],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 430",
+        "course_title": "Ecological Dimensions of Sustainability",
+        "description": "Current issues. Application to agricultural, energy, and resource systems in terrestrial and aquatic contexts. Analysis of complex problems; incorporation of science into novel interdisciplinary solutions. [3-0-0] Prerequisite: Class standing 3, and either (1) one of ENVR 300, BIOL 230, FRST 201 or (2) other demonstrated ecology background.",
+        "prerequisites": [
+            "ENVR 300",
+            "BIOL 230",
+            "FRST 201"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 440",
+        "course_title": "Analytical Methods in Sustainability Science",
+        "description": "Sustainability analysis through a series of case studies. Example approaches include cost-benefit analysis, trade-offs analysis, and life-cycle analysis. Active learning in a computer lab using real-world data. [2-2-0] Prerequisite: One of ENVR 200, ASIC 220, SCIE 220, GEOG 211. Third-year standing.",
+        "prerequisites": [
+            "ENVR 200",
+            "ASIC 220",
+            "SCIE 220",
+            "GEOG 211"
+        ],
+        "corequisites": []
+    },
+    {
+        "course_code": "ENVR_V 449",
+        "course_title": "Environmental Science Honours Thesis",
+        "description": "[3-0-0] Prerequisite: [ENVR300] and fourth-year standing in the B.Sc. Environmental Sciences honours program.",
+        "prerequisites": [
+            "ENVR 300"
+        ],
+        "corequisites": []
+    }
+]
